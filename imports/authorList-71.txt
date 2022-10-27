@@ -1,0 +1,39 @@
+178834, PROFESÖR, EVREN BİLGE KUTLAY, İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ/EĞİTİM FAKÜLTESİ/GÜZEL SANATLAR EĞİTİMİ BÖLÜMÜ/MÜZİK ÖĞRETMENLİĞİ PR. /, Güzel Sanatlar Temel Alanı, Müzik, evren.kutlay[at]izu.edu.tr, 42AE4D4888D687BC
+
+16032, PROFESÖR, HANDE CANGÖKCE, İSTANBUL TOPKAPI ÜNİVERSİTESİ/GÜZEL SANATLAR, TASARIM VE MİMARLIK FAKÜLTESİ/MÜZİK BÖLÜMÜ/MÜZİK ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Yorumculuk, handecangokce[at]topkapi.edu.tr, 61B8E6CA488232E9
+
+128550, PROFESÖR, BERAY SELEN, BAHÇEŞEHİR ÜNİVERSİTESİ/KONSERVATUVAR/MÜZİK TEKNOLOJİSİ BÖLÜMÜ/MÜZİK TEKNOLOJİSİ PR. /, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), 641EE2FE2CD2A454
+
+256422, DOÇENT, YURIY SAYUTKIN, AKDENİZ ÜNİVERSİTESİ/ANTALYA DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/PİYANO ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Yorumculuk, 03A834C1574E4975
+
+274666, DOÇENT, AYŞE TURAN, ANADOLU ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), ayozden[at]anadolu.edu.tr, 68D5FE9B5B083CC3
+
+218109, DOÇENT, HALE BASMACIOĞLU, ANADOLU ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk) ; Klasik Batı Müziği (Kompozisyon) ; Müzikoloji, AF970FE925D920D3
+
+274665, DOÇENT, AHMET BURAK BASMACIOĞLU, ANADOLU ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk) ; Müzikoloji ; Müzik Teorileri, B85728A291FDE13D
+
+190777, DOÇENT, ÖMÜR MUNZUR, BAŞKENT ÜNİVERSİTESİ/KONSERVATUVAR/SAHNE SANATLARI BÖLÜMÜ/, Güzel Sanatlar Temel Alanı, Müzik, Yorumculuk, 6270A4E68614ACEB
+
+46499, DOÇENT, ASIM KÜRŞAD TERCİ, YAŞAR ÜNİVERSİTESİ/SANAT VE TASARIM FAKÜLTESİ/MÜZİK BÖLÜMÜ/MÜZİK PR. /, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği ; Yorumculuk, kursad.terci[at]yasar.edu.tr, 7464332A04C9D5F5
+
+250922, DOÇENT, FÜSUN KÖKSAL İNCİRLİOĞLU, YAŞAR ÜNİVERSİTESİ/SANAT VE TASARIM FAKÜLTESİ/MÜZİK BÖLÜMÜ/MÜZİK PR. /, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Kompozisyon) ; Müzik Teorileri ; Müzikoloji, C5741F3089BBF2A1
+
+203031, DOÇENT, PAOLO SUSANNİ, YAŞAR ÜNİVERSİTESİ/SANAT VE TASARIM FAKÜLTESİ/MÜZİK BÖLÜMÜ/MÜZİK PR. /, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği ; Müzik Teorileri ; Yorumculuk, E36A092E33C72C6B
+
+217393, DOÇENT, ALİ BAŞEĞMEZLER, BAŞKENT ÜNİVERSİTESİ/KONSERVATUVAR/MÜZİK BÖLÜMÜ/YAYLI ÇALGILAR PR. /, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği ; Yorumculuk, 57BE7A915932E637
+
+166750, DOÇENT, TAHSİN TOLGA YAYALAR, İHSAN DOĞRAMACI BİLKENT ÜNİVERSİTESİ/MÜZİK VE SAHNE SANATLARI FAKÜLTESİ/TİYATRO BÖLÜMÜ/TİYATRO PR. /, Güzel Sanatlar Temel Alanı, Müzik, Kompozisyon, B8FBF4DF596CB20A
+
+39571, DOÇENT, ONUR TÜRKMEN, İHSAN DOĞRAMACI BİLKENT ÜNİVERSİTESİ/MÜZİK VE SAHNE SANATLARI FAKÜLTESİ/TİYATRO BÖLÜMÜ/TİYATRO PR. /, Güzel Sanatlar Temel Alanı, Müzik, Kompozisyon, D4EF2906A101518A
+
+234254, DOÇENT, VOLKAN GİDİŞ, İSTANBUL MEDİPOL ÜNİVERSİTESİ/GÜZEL SANATLAR TASARIM VE MİMARLIK FAKÜLTESİ/MÜZİK BÖLÜMÜ/TÜRK MÜZİĞİ PR. /, Güzel Sanatlar Temel Alanı, Müzik, Türk Sanat Müziği (Yorumculuk) ; Türk Sanat Müziği (Kompozisyon), vgidis[at]medipol.edu.tr, 497F10255F68AAAC
+
+224143, DOÇENT, OĞUZ USMAN, İSTANBUL BİLGİ ÜNİVERSİTESİ/SOSYAL VE BEŞERİ BİLİMLER FAKÜLTESİ/MÜZİK BÖLÜMÜ/MÜZİK PR. /, Güzel Sanatlar Temel Alanı, Müzik, Müzik Teorileri ; Klasik Batı Müziği (Kompozisyon), oguz.usman[at]bilgi.edu.tr, A6145E41E5D35C3E
+
+261935, DOÇENT, DENİZ SEVER, GİRNE AMERİKAN ÜNİVERSİTESİ/EĞİTİM FAKÜLTESİ/MÜZİK ÖĞRETMENLİĞİ BÖLÜMÜ/MÜZİK ÖĞRETMENLİĞİ PR.  /, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk) ; Orkestra Şefliği ; Klasik Batı Müziği (Kompozisyon), D05DB62DBE75035B
+
+276945, DOÇENT, AYŞE BAHAR POLAT, MALTEPE ÜNİVERSİTESİ/KONSERVATUVAR/MÜZİK BÖLÜMÜ/YAYLI ÇALGILAR PR. /, Güzel Sanatlar Temel Alanı, Müzik, Yorumculuk ; Klasik Batı Müziği, baharpolat[at]maltepe.edu.tr, 86CA00314B8D8C6F
+
+51796, DOÇENT, NACİ MADANOĞLU, İSTANBUL OKAN ÜNİVERSİTESİ/KONSERVATUVAR/MÜZİKOLOJİ BÖLÜMÜ/MÜZİKOLOJİ PR. /, Güzel Sanatlar Temel Alanı, Müzik, Müzik Teorileri, naci.madanoglu[at]gmail.com, 037B31683A448BE8
+
+193567, DOÇENT, MÜSLÜM AKDEMİR, NİŞANTAŞI ÜNİVERSİTESİ/KONSERVATUVAR/MÜZİK BÖLÜMÜ/MÜZİK PR. /, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji ; Türk Halk müziği, 2F66095E0AC961BF

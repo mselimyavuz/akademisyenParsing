@@ -1,0 +1,39 @@
+270178, DOKTOR ÖĞRETİM ÜYESİ, CEYLA GANİOĞLU, ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ/İCRA SANATLARI FAKÜLTESİ/ÇALGI EĞİTİMİ BÖLÜMÜ/YAYLI ÇALGILAR ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), E2748C19661B41AB
+
+337420, DOKTOR ÖĞRETİM ÜYESİ, ASLI CEREN YILDIRIM, ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ/İCRA SANATLARI FAKÜLTESİ/ÇALGI EĞİTİMİ BÖLÜMÜ/TUŞLU ÇALGILAR ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), asliyildirim[at]mgu.edu.tr, C1E17984D59050C3
+
+337425, DOKTOR ÖĞRETİM ÜYESİ, SERKAN AĞIR, ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ/İCRA SANATLARI FAKÜLTESİ/ÇALGI EĞİTİMİ BÖLÜMÜ/TELLİ ÇALGILAR ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), serkanagir[at]mgu.edu.tr, AE9DCC99AFA2A2E4
+
+337422, DOKTOR ÖĞRETİM ÜYESİ, ERBERK ERYILMAZ, ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ/İCRA SANATLARI FAKÜLTESİ/KOMPOZİSYON VE ŞEFLİK BÖLÜMÜ/KOMPOZİSYON ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Kompozisyon) ; Klasik Batı Müziği (Yorumculuk), erberkeryilmaz[at]mgu.edu.tr, 1B08EF115E1D1BDF
+
+313330, DOKTOR ÖĞRETİM ÜYESİ, AYŞEGÜL KOCA, ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ/İCRA SANATLARI FAKÜLTESİ/ÇALGI EĞİTİMİ BÖLÜMÜ/TELLİ ÇALGILAR ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), aysegulkoca[at]mgu.edu.tr, 93D1982CF47CCE52
+
+309408, DOKTOR ÖĞRETİM ÜYESİ, AYÇİN ÖNER, ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ/TÜRK MÜZİĞİ DEVLET KONSERVATUVARI/SES EĞİTİMİ BÖLÜMÜ/SES EĞİTİMİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Türk Sanat Müziği (Yorumculuk), aycin.oner[at]hbv.edu.tr, 08C0140E82334A8F
+
+118201, DOKTOR ÖĞRETİM ÜYESİ, KUBİLAY YILMAZ, SİVAS CUMHURİYET ÜNİVERSİTESİ/TÜRK MÜZİĞİ DEVLET KONSERVATUVARI/TÜRK MÜZİĞİ BÖLÜMÜ/TÜRK SANAT MÜZİĞİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji, kyilmaz[at]cumhuriyet.edu.tr, 0F867B8649C71188
+
+105347, DOKTOR ÖĞRETİM ÜYESİ, OZAN EROY, İNÖNÜ ÜNİVERSİTESİ/EĞİTİM FAKÜLTESİ/GÜZEL SANATLAR EĞİTİMİ BÖLÜMÜ/MÜZİK EĞİTİMİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, 8499B045EFE7188D
+
+17493, DOKTOR ÖĞRETİM ÜYESİ, İSMAİL SINIR, MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ/EĞİTİM FAKÜLTESİ/GÜZEL SANATLAR EĞİTİMİ BÖLÜMÜ/MÜZİK EĞİTİMİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzik Teorileri ; Müzikoloji ; Klasik Batı Müziği (Kompozisyon), ismailsinir[at]mu.edu.tr, ADD11F6CCD565A7B
+
+302960, DOKTOR ÖĞRETİM ÜYESİ, MEHMET SELİM YAVUZ, İSTANBUL ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/MÜZİKOLOJİ BÖLÜMÜ/GENEL MÜZİKOLOJİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji, msyavuz[at]istanbul.edu.tr, 80BA465D9A5D219F
+
+147470, DOKTOR ÖĞRETİM ÜYESİ, DENİZ YAVUZ, TRAKYA ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/ÜFLEME VE VURMA ÇALGILAR ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği ; Yorumculuk, denizyavuz[at]trakya.edu.tr, 59CC828F7F38EF6C
+
+127970, DOKTOR ÖĞRETİM ÜYESİ, CENK ÇÖL, AFYON KOCATEPE ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/TÜRK SANAT MÜZİĞİ BÖLÜMÜ/TÜRK SANAT MÜZİĞİ SES EĞİTİMİ ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik  Türk  Müziği ( Sanat Müziği ) ; Yorumculuk ; Müzik Teorileri, cenkcol[at]hotmail.com, DA889498442608F4
+
+196961, DOKTOR ÖĞRETİM ÜYESİ, DÖNE GÖRKEM KUMTEPE, KIRIKKALE ÜNİVERSİTESİ/GÜZEL SANATLAR FAKÜLTESİ/MÜZİK BÖLÜMÜ/YAYLI SAZLAR ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, kumtepegorkem[at]gmail.com, 5487290A1C037B55
+
+245679, DOKTOR ÖĞRETİM ÜYESİ, BEKİR TANYERİ, KIRIKKALE ÜNİVERSİTESİ/GÜZEL SANATLAR FAKÜLTESİ/MÜZİK BÖLÜMÜ/MÜZİK BİLİMLERİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzik Teknolojileri ; Türk Halk Müziği (Yorumculuk), bekirtanyeri[at]gmail.com, 0DCE071C71343A07
+
+2320, PROFESÖR, GÜLÇİN YAHYA KAÇAR, ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ/TÜRK MÜZİĞİ DEVLET KONSERVATUVARI/ÇALGI EĞİTİMİ BÖLÜMÜ/ÇALGI EĞİTİMİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Türk Sanat Müziği (Yorumculuk) ; Müzik Teorileri ; Müzikoloji, gulcin.yahya[at]hbv.edu.tr, ABB0620794719FDE
+
+42095, DOKTOR ÖĞRETİM ÜYESİ, ALİ KERİM ÖNER, ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ/TÜRK MÜZİĞİ DEVLET KONSERVATUVARI/ÇALGI EĞİTİMİ BÖLÜMÜ/ÇALGI EĞİTİMİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Türk Sanat Müziği (Yorumculuk), alikerimoner[at]gmail.com, 26FD70BF8364F8CD
+
+38376, DOKTOR ÖĞRETİM ÜYESİ, ÖZGE ŞEN TUNCEL, ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ/TÜRK MÜZİĞİ DEVLET KONSERVATUVARI/SES EĞİTİMİ BÖLÜMÜ/SES EĞİTİMİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Türk Sanat Müziği (Yorumculuk) ; Müzikoloji, ozge.sen[at]hbv.edu.tr, 3AC481F289DED83E
+
+103950, DOKTOR ÖĞRETİM ÜYESİ, BARIŞ GÜRKAN, ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ/TÜRK MÜZİĞİ DEVLET KONSERVATUVARI/MÜZİKOLOJİ BÖLÜMÜ/MÜZİKOLOJİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji ; Türk Halk Müziği (Yorumculuk), baris.gurkan[at]hbv.edu.tr, BC12AFD462C07B51
+
+58105, DOKTOR ÖĞRETİM ÜYESİ, ÖZLEM KILINÇER, NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ/EĞİTİM FAKÜLTESİ/GÜZEL SANATLAR EĞİTİMİ BÖLÜMÜ/MÜZİK EĞİTİMİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, ozlem.kilincer[at]nevsehir.edu.tr, 80D33B4CE88E1B52
+
+44072, DOKTOR ÖĞRETİM ÜYESİ, ANIL ÇELİK, NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ/GÜZEL SANATLAR FAKÜLTESİ/SAHNE SANATLARI BÖLÜMÜ/MÜZİK ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), anilcelik[at]nevsehir.edu.tr, EA8D23E78EE35109

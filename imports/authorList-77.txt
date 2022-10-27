@@ -1,0 +1,39 @@
+165375, DOKTOR ÖĞRETİM ÜYESİ, HATİCE NURTAP SÜMER, İSTANBUL OKAN ÜNİVERSİTESİ/KONSERVATUVAR/MÜZİK BÖLÜMÜ/MÜZİK PR. /, Güzel Sanatlar Temel Alanı, Müzik, 8A5352A97E4E9B41
+
+28636, DOKTOR ÖĞRETİM ÜYESİ, FAZIL CEM KÜÇÜMEN, İSTANBUL OKAN ÜNİVERSİTESİ/KONSERVATUVAR/TİYATRO BÖLÜMÜ/TİYATRO PR. /, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), 9E7ADC4C5F18B22F
+
+309950, DOKTOR ÖĞRETİM ÜYESİ, SÜLEYMAN EMRE ELİVAR, BURSA ULUDAĞ ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/PİYANO ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), emreelivar[at]uludag.edu.tr, 34881BE431017473
+
+40646, DOKTOR ÖĞRETİM ÜYESİ, ASLI GİRAY AKYUNAK, YAŞAR ÜNİVERSİTESİ/İLETİŞİM FAKÜLTESİ/YENİ MEDYA VE İLETİŞİM BÖLÜMÜ/YENİ MEDYA VE İLETİŞİM PR.  /, Güzel Sanatlar Temel Alanı, Müzik, Müzik Teorileri ; Klasik Batı Müziği (Yorumculuk) ; Müzikoloji, asli.akyunak[at]yasar.edu.tr, BF9F12779D692E45
+
+309031, DOKTOR ÖĞRETİM ÜYESİ, BAŞAR CAN KIVRAK, YAŞAR ÜNİVERSİTESİ/SANAT VE TASARIM FAKÜLTESİ/ÇİZGİ FİLM VE ANİMASYON BÖLÜMÜ/ÇİZGİ FİLM VE ANİMASYON PR. /, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), 18B2A3C695DCF934
+
+301524, DOKTOR ÖĞRETİM ÜYESİ, AYSU ZEHRA ŞANVER, MALTEPE ÜNİVERSİTESİ/KONSERVATUVAR/MÜZİK BÖLÜMÜ/ÜFLEMELİ VE VURMALI ÇALGILAR PR. /, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), aysuzehrasanver[at]maltepe.edu.tr, 511EDF74CF7E3042
+
+343051, DOKTOR ÖĞRETİM ÜYESİ, MUSTAFA ARDA CABAOĞLU, MALTEPE ÜNİVERSİTESİ/KONSERVATUVAR/MÜZİK BÖLÜMÜ/ÜFLEMELİ VE VURMALI ÇALGILAR PR. /, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk) ; Müzikoloji ; Müzik Teorileri, mustafaardacabaoglu[at]maltepe.edu.tr, 7F194483274692C5
+
+301523, DOKTOR ÖĞRETİM ÜYESİ, AYDIN YAŞAR ACAR, MALTEPE ÜNİVERSİTESİ/KONSERVATUVAR/MÜZİK BÖLÜMÜ/ÜFLEMELİ VE VURMALI ÇALGILAR PR. /, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), aydinyasaracar[at]maltepe.edu.tr, 661036F13D7E4CD2
+
+273427, DOKTOR ÖĞRETİM ÜYESİ, ERMAN TÜRKİLİ, BAHÇEŞEHİR ÜNİVERSİTESİ/KONSERVATUVAR/MÜZİK BÖLÜMÜ/MÜZİK PR. /, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), erman.turkili[at]cons.bau.edu.tr, BE9A40FD6674370E
+
+196636, DOKTOR ÖĞRETİM ÜYESİ, MUSTAFA AVCI, ALTINBAŞ ÜNİVERSİTESİ/GÜZEL SANATLAR VE TASARIM FAKÜLTESİ/RADYO, TELEVİZYON VE SİNEMA BÖLÜMÜ/RADYO, TELEVİZYON VE SİNEMA PR. /, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji, mustafa.avci[at]altinbas.edu.tr, B58579F20EEC5AC4
+
+301518, DOKTOR ÖĞRETİM ÜYESİ, ARMAĞAN DURDAĞ, MALTEPE ÜNİVERSİTESİ/KONSERVATUVAR/MÜZİK BÖLÜMÜ/BESTECİLİK VE ORKESTRA ŞEFLİĞİ PR. /, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Kompozisyon), 3892E2E5B849F92B
+
+281356, DOKTOR ÖĞRETİM ÜYESİ, MUSTAFA AVŞAR, MALTEPE ÜNİVERSİTESİ/KONSERVATUVAR/MÜZİK BÖLÜMÜ/BESTECİLİK VE ORKESTRA ŞEFLİĞİ PR. /, Güzel Sanatlar Temel Alanı, Müzik, Müzik Teorileri, mustafaavsar[at]maltepe.edu.tr, 8A51B3CBA9AA3495
+
+168526, DOKTOR ÖĞRETİM ÜYESİ, KAAN YÜKSEL, BAŞKENT ÜNİVERSİTESİ/KONSERVATUVAR/SAHNE SANATLARI BÖLÜMÜ/OPERA PR. /, Güzel Sanatlar Temel Alanı, Müzik, Orkestra Şefliği, 94C6DBF4DBBB963E
+
+263593, DOKTOR ÖĞRETİM ÜYESİ, FATMA ZEYNEP EĞİLMEZ, HALİÇ ÜNİVERSİTESİ/KONSERVATUVAR/OPERA BÖLÜMÜ/OPERA PR. /, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği ; Yorumculuk ; Müzik Teorileri, zeynepegilmez[at]halic.edu.tr, A56D59325ED95FB1
+
+301526, DOKTOR ÖĞRETİM ÜYESİ, CEM BABACAN, MALTEPE ÜNİVERSİTESİ/KONSERVATUVAR/MÜZİK BÖLÜMÜ/PİYANO, ARP VE GİTAR PR. /, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), cembabacan[at]maltepe.edu.tr, FF6EAC74DA86A0A4
+
+113207, DOKTOR ÖĞRETİM ÜYESİ, MERAL BEŞELİ, MALTEPE ÜNİVERSİTESİ/KONSERVATUVAR/MÜZİK BÖLÜMÜ/PİYANO, ARP VE GİTAR PR. /, Güzel Sanatlar Temel Alanı, Müzik, meralbeseli[at]maltepe.edu.tr, 3256256A1F0FD999
+
+112833, DOKTOR ÖĞRETİM ÜYESİ, PERİM HAMİDOĞLU, MALTEPE ÜNİVERSİTESİ/KONSERVATUVAR/MÜZİK BÖLÜMÜ/PİYANO, ARP VE GİTAR PR. /, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), perimhamidoglu[at]maltepe.edu.tr, 53B4A6BABCD77E4B
+
+112828, DOKTOR ÖĞRETİM ÜYESİ, HÜLYA BARUT, MALTEPE ÜNİVERSİTESİ/KONSERVATUVAR/MÜZİK BÖLÜMÜ/PİYANO, ARP VE GİTAR PR. /, Güzel Sanatlar Temel Alanı, Müzik, hulyabarut[at]maltepe.edu.tr, BB9B19BF675EEDCE
+
+130925, DOKTOR ÖĞRETİM ÜYESİ, ULAŞ ÖZER, İSTANBUL AYDIN ÜNİVERSİTESİ/EĞİTİM FAKÜLTESİ/GÜZEL SANATLAR EĞİTİMİ BÖLÜMÜ/MÜZİK ÖĞRETMENLİĞİ PR. /, Güzel Sanatlar Temel Alanı, Müzik, E99B238CC6E112F8
+
+340199, DOKTOR ÖĞRETİM ÜYESİ, NAFİZ CAMGÖZ, MALTEPE ÜNİVERSİTESİ/KONSERVATUVAR/TÜRK MÜZİĞİ BÖLÜMÜ/TÜRK HALK MÜZİĞİ PR. /, Güzel Sanatlar Temel Alanı, Müzik, Türk Halk Müziği (Yorumculuk) ; Türk Halk Müziği (Kompozisyon) ; Müzik Teorileri, nafizcamgoz[at]maltepe.edu.tr, 3BE6BD7098A03B01

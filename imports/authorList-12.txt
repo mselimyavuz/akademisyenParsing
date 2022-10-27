@@ -1,0 +1,39 @@
+195931, DOÇENT, İLHAMİ KAYA, BATMAN ÜNİVERSİTESİ/GÜZEL SANATLAR FAKÜLTESİ/MÜZİK BÖLÜMÜ/MÜZİK ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji, ilhami.kaya[at]batman.edu.tr, 21EB141B4CB54845
+
+15248, DOÇENT, BANU GEBOLOĞLU, TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/TÜRK MÜZİĞİ BÖLÜMÜ/TÜRK MÜZİĞİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Türk Sanat Müziği (Yorumculuk), banu.gebologlu[at]gop.edu.tr, A862E78C72F05734
+
+14463, DOÇENT, GAMZE KÖPRÜLÜ, TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/TÜRK MÜZİĞİ BÖLÜMÜ/TÜRK MÜZİĞİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji, gamze.koprulu[at]gop.edu.tr, 32112D3104880818
+
+155616, DOÇENT, BESTE ESEN BİÇER, ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ/TÜRK MÜZİĞİ DEVLET KONSERVATUVARI/ÇALGI EĞİTİMİ BÖLÜMÜ/ÇALGI EĞİTİMİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Türk Sanat Müziği (Yorumculuk), beste.esen[at]hbv.edu.tr, 1732D94833988A6C
+
+106989, DOÇENT, SEHER TETİK IŞIK, ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ/TÜRK MÜZİĞİ DEVLET KONSERVATUVARI/MÜZİKOLOJİ BÖLÜMÜ/MÜZİKOLOJİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji ; Klasik  Türk  Müziği ( Sanat Müziği ), seher.tetik[at]hbv.edu.tr, 473CB553A079DA7A
+
+51006, DOÇENT, GÜLDEN FİLİZ ÖNAL, GAZİ ÜNİVERSİTESİ/GAZİ EĞİTİM FAKÜLTESİ/GÜZEL SANATLAR EĞİTİMİ BÖLÜMÜ/MÜZİK EĞİTİMİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji, filizonal07[at]hotmail.com, CFDADCC3D3C39436
+
+109312, DOÇENT, MEHMET AKPINAR, GAZİ ÜNİVERSİTESİ/GAZİ EĞİTİM FAKÜLTESİ/GÜZEL SANATLAR EĞİTİMİ BÖLÜMÜ/MÜZİK EĞİTİMİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji ; Türk Halk müziği, makpinar[at]gazi.edu.tr, 54643AB9498CA2E1
+
+34060, DOÇENT, HAMİT ÖNAL, GAZİ ÜNİVERSİTESİ/GAZİ EĞİTİM FAKÜLTESİ/GÜZEL SANATLAR EĞİTİMİ BÖLÜMÜ/MÜZİK EĞİTİMİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzik Teorileri ; Türk Halk müziği, hamitonal[at]gazi.edu.tr, 1F8952A9A529E712
+
+132321, DOÇENT, GÜNAY AKGÜN, GAZİ ÜNİVERSİTESİ/GAZİ EĞİTİM FAKÜLTESİ/GÜZEL SANATLAR EĞİTİMİ BÖLÜMÜ/MÜZİK EĞİTİMİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji ; Klasik Batı Müziği (Yorumculuk), EFE4CA9E10B47DF5
+
+164358, DOÇENT, BİRSEN JELEN, GAZİ ÜNİVERSİTESİ/GAZİ EĞİTİM FAKÜLTESİ/GÜZEL SANATLAR EĞİTİMİ BÖLÜMÜ/MÜZİK EĞİTİMİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, birsenka[at]yahoo.com, 28DF7E9ADB782764
+
+167221, DOÇENT, VASFİ HATİPOĞLU, ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ/TÜRK MÜZİĞİ DEVLET KONSERVATUVARI/ÇALGI EĞİTİMİ BÖLÜMÜ/ÇALGI EĞİTİMİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Türk Sanat Müziği (Yorumculuk) ; Müzikoloji ; Müzik Teorileri, vasfi.hatipoglu[at]hbv.edu.tr, F59B711C3A1ADF90
+
+10405, DOÇENT, SELÇUK ÖZTÜRK, ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ/TÜRK MÜZİĞİ DEVLET KONSERVATUVARI/ÇALGI EĞİTİMİ BÖLÜMÜ/ÇALGI EĞİTİMİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Türk Sanat Müziği (Yorumculuk) ; Türk Halk Müziği (Yorumculuk), 1806D901B56F1D63
+
+112224, DOÇENT, İLKNUR ÖZAL GÖNCÜ, GAZİ ÜNİVERSİTESİ/GAZİ EĞİTİM FAKÜLTESİ/GÜZEL SANATLAR EĞİTİMİ BÖLÜMÜ/MÜZİK EĞİTİMİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği ; Yorumculuk ; Müzik Teorileri, FF633CFD67FB342E
+
+207359, DOÇENT, ÖMER BİLGEHAN SONSEL, GAZİ ÜNİVERSİTESİ/GAZİ EĞİTİM FAKÜLTESİ/GÜZEL SANATLAR EĞİTİMİ BÖLÜMÜ/MÜZİK EĞİTİMİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, sonselbilgehan[at]gmail.com, CB7A6B8DFEEC2690
+
+18588, DOÇENT, ÖMER CAN SATIR, HİTİT ÜNİVERSİTESİ/GÜZEL SANATLAR TASARIM VE MİMARLIK FAKÜLTESİ/MÜZİK BÖLÜMÜ/MÜZİK ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji, omercans[at]gmail.com, 43E607A595F22C6A
+
+120225, DOÇENT, MEHMET SERKAN ÇAKIR, İNÖNÜ ÜNİVERSİTESİ/GÜZEL SANATLAR VE TASARIM FAKÜLTESİ/MÜZİK BİLİMLERİ BÖLÜMÜ/MÜZİKOLOJİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji, serkan.cakir[at]inonu.edu.tr, D11499930C317C61
+
+120428, DOÇENT, DERYA KARABURUN DOĞAN, İNÖNÜ ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/TÜRK HALK MÜZİĞİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji, dkaraburun[at]inonu.edu.tr, BA3174831CDF69A0
+
+37220, DOÇENT, YAVUZ SELİM KAFKASYALI, KAFKAS ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/YAYLI ÇALGILAR ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji, yavuzselimkafkasyali[at]gmail.com, B6FCEDA8381A728D
+
+42939, DOÇENT, SİBEL POLAT, KAFKAS ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/GELENEKSEL TÜRK MÜZİĞİ BÖLÜMÜ/TÜRK HALK MÜZİĞİ ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji, sibel.polat[at]kafkas.edu.tr, C996C2C89832119D
+
+34057, DOÇENT, SITKI AKARSU, KASTAMONU ÜNİVERSİTESİ/GÜZEL SANATLAR VE TASARIM FAKÜLTESİ/MÜZİKOLOJİ BÖLÜMÜ/MÜZİKOLOJİ ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji, sakarsu[at]kastamonu.edu.tr, 3743B38C29822E6A

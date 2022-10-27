@@ -1,0 +1,39 @@
+31467, DOKTOR ÖĞRETİM ÜYESİ, ÖNDER SAYGIN ÇETİNER, SAKARYA ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/ÇALGI EĞİTİMİ BÖLÜMÜ/TÜRK HALK MÜZİĞİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Kompozisyon) ; Klasik Batı Müziği (Yorumculuk) ; Müzikoloji, cetiner[at]sakarya.edu.tr, EE6D95AB2977AC82
+
+304039, DOKTOR ÖĞRETİM ÜYESİ, SAFİYE ŞEYDA ERDAŞ, SAKARYA ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/MÜZİKOLOJİ BÖLÜMÜ/MÜZİKOLOJİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji ; Türk Sanat Müziği (Yorumculuk) ; Türk Halk Müziği (Kompozisyon), safiyeseyda[at]sakarya.edu.tr, B39A8C8FE82F0B0A
+
+341760, DOKTOR ÖĞRETİM ÜYESİ, MUSTAFA DAĞDEVİREN, İSKENDERUN TEKNİK ÜNİVERSİTESİ/MUSTAFA YAZICI DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/PİYANO ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji ; Klasik Batı Müziği (Yorumculuk), mustafa.dagdeviren[at]iste.edu.tr, 51FB8017C26FF175
+
+123094, DOKTOR ÖĞRETİM ÜYESİ, OKAY ÖZDAĞ, İSKENDERUN TEKNİK ÜNİVERSİTESİ/MUSTAFA YAZICI DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/PİYANO ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Kompozisyon ; Yorumculuk ; Klasik Batı Müziği, okayozdag[at]hotmail.com, A04FA7475C41668C
+
+58034, DOKTOR ÖĞRETİM ÜYESİ, ŞEHRİNAZ GÜNDÜZ, İSKENDERUN TEKNİK ÜNİVERSİTESİ/MUSTAFA YAZICI DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/ÜFLEMELİ VE VURMALI ÇALGILAR ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), E628EEC0C5768668
+
+214265, DOKTOR ÖĞRETİM ÜYESİ, PINAR ŞAHİN, İZMİR DEMOKRASİ ÜNİVERSİTESİ/GÜZEL SANATLAR FAKÜLTESİ/MÜZİK BÖLÜMÜ/MÜZİKOLOJİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji, pinar.sahin[at]idu.edu.tr, 2681302312C31EA9
+
+325911, DOKTOR ÖĞRETİM ÜYESİ, ORÇUN BERRAKÇAY, İZMİR DEMOKRASİ ÜNİVERSİTESİ/GÜZEL SANATLAR FAKÜLTESİ/MÜZİK BÖLÜMÜ/MÜZİKOLOJİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji, orcun.berrakcay[at]idu.edu.tr, E43212A6A249C975
+
+281048, DOKTOR ÖĞRETİM ÜYESİ, İLKER DENİZ BAŞUĞUR, ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ/MÜZİK BİLİMLERİ VE TEKNOLOJİLERİ FAKÜLTESİ/MÜZİK TEORİSİ BÖLÜMÜ/MÜZİK TEORİSİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzik Teorileri, denizbasugur[at]mgu.edu.tr, EC5D885BE5F968BE
+
+43948, DOKTOR ÖĞRETİM ÜYESİ, SERDAR ERKAN, ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ/MÜZİK BİLİMLERİ VE TEKNOLOJİLERİ FAKÜLTESİ/MÜZİKOLOJİ BÖLÜMÜ/MÜZİKOLOJİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji, serdarerkan[at]mgu.edu.tr, EBF1C49D7C6A0140
+
+291923, DOKTOR ÖĞRETİM ÜYESİ, ALİ ALİZADE, ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ/İCRA SANATLARI FAKÜLTESİ/KOMPOZİSYON VE ŞEFLİK BÖLÜMÜ/KOMPOZİSYON ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Kompozisyon ; Müzik Teorileri, alializade[at]mgu.edu.tr, C6D6D201196D5C9A
+
+169816, DOKTOR ÖĞRETİM ÜYESİ, PINAR TURAN, ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ/İCRA SANATLARI FAKÜLTESİ/ÇALGI EĞİTİMİ BÖLÜMÜ/YAYLI ÇALGILAR ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), pinar.turan[at]mgu.edu.tr, 1907E80F3DB36E9C
+
+132324, DOKTOR ÖĞRETİM ÜYESİ, OZAN BELGE, ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ/MÜZİK VE GÜZEL SANATLAR EĞİTİM FAKÜLTESİ/MÜZİK EĞİTİMİ BÖLÜMÜ/MÜZİK EĞİTİMİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzik Teorileri, 593BE18EA0CAB880
+
+302089, DOKTOR ÖĞRETİM ÜYESİ, TAYFUN İLHAN, ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ/İCRA SANATLARI FAKÜLTESİ/ÇALGI EĞİTİMİ BÖLÜMÜ/TUŞLU ÇALGILAR ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), tayfun.ilhan[at]mgu.edu.tr, 6D447E6F2DCD3E73
+
+138634, DOKTOR ÖĞRETİM ÜYESİ, BARIŞ KEREM BAHAR, ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ/İCRA SANATLARI FAKÜLTESİ/ÇALGI EĞİTİMİ BÖLÜMÜ/YAYLI ÇALGILAR ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), bkerembahar[at]mgu.edu.tr, 11B46A14F952BFA0
+
+107498, DOKTOR ÖĞRETİM ÜYESİ, SERKAN GÜNALÇİN, ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ/MÜZİK BİLİMLERİ VE TEKNOLOJİLERİ FAKÜLTESİ/MÜZİK TEORİSİ BÖLÜMÜ/MÜZİK TEORİSİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzik Teorileri ; Türk Sanat Müziği (Yorumculuk), serkangunalcin[at]mgu.edu.tr, DA1FE4EB6058DE36
+
+292443, DOKTOR ÖĞRETİM ÜYESİ, İSMET KARADENİZ, ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ/MÜZİK BİLİMLERİ VE TEKNOLOJİLERİ FAKÜLTESİ/ÇALGI TEKNOLOJİLERİ BÖLÜMÜ/ÇALGI TEKNOLOJİLERİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzik Teorileri ; Müzikoloji, ismetkaradeniz[at]outlook.com, 26ECF53A0C289E43
+
+139487, DOKTOR ÖĞRETİM ÜYESİ, TOLGA OTER, ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ/İCRA SANATLARI FAKÜLTESİ/ÇALGI EĞİTİMİ BÖLÜMÜ/TELLİ ÇALGILAR ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Türk Sanat Müziği (Yorumculuk), tolgaoter[at]mgu.edu.tr, 99B6D239D3AA4AB7
+
+169361, DOKTOR ÖĞRETİM ÜYESİ, ÖNDER ÖZKOÇ, ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ/MÜZİK BİLİMLERİ VE TEKNOLOJİLERİ FAKÜLTESİ/MÜZİK TEORİSİ BÖLÜMÜ/MÜZİK TEORİSİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Kompozisyon), onderozkoc[at]mgu.edu.tr, 353318E9623AD475
+
+331762, DOKTOR ÖĞRETİM ÜYESİ, FİLİZ GÜRER YÜCEL, ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ/MÜZİK BİLİMLERİ VE TEKNOLOJİLERİ FAKÜLTESİ/ÇALGI TEKNOLOJİLERİ BÖLÜMÜ/ÇALGI TEKNOLOJİLERİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzik Teknolojileri, filizyucel[at]mgu.edu.tr, C41CCBEAF77DE28F
+
+38503, DOKTOR ÖĞRETİM ÜYESİ, ZEKİ YILDIRIM, ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ/MÜZİK BİLİMLERİ VE TEKNOLOJİLERİ FAKÜLTESİ/ÇALGI TEKNOLOJİLERİ BÖLÜMÜ/ÇALGI TEKNOLOJİLERİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzik Teknolojileri ; Müzikoloji, zeki.yildirim[at]mgu.edu.tr, 4EA00A2EAB35458E

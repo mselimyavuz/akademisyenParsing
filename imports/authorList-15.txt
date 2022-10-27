@@ -1,0 +1,39 @@
+58487, DOÇENT, EMRE ÜNLENEN, ANADOLU ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/PİYANO ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği ; Yorumculuk, emreunlenen[at]anadolu.edu.tr, F2D10CCB2A2233A2
+
+274668, DOÇENT, AYŞE ÖZLEM AKDENİZ, ANADOLU ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/YAYLI ÇALGILAR ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), ozakdeniz[at]anadolu.edu.tr, DBAAB7C2F67F30C3
+
+220928, DOÇENT, EMEL ASUMAN ÖNEN, ANADOLU ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/YAYLI ÇALGILAR ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Yorumculuk, eaonen[at]anadolu.edu.tr, 5859C291B48D4976
+
+111175, DOÇENT, ESRA BERKMAN, ANADOLU ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/TÜRK MÜZİĞİ BÖLÜMÜ/TÜRK MÜZİĞİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Türk Sanat Müziği (Yorumculuk) ; Müzik Teorileri ; Müzikoloji, esraberkman[at]anadolu.edu.tr, 282ABE84CBFC308B
+
+220017, DOÇENT, KAYA KILIÇ, ANADOLU ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/TÜRK MÜZİĞİ BÖLÜMÜ/TÜRK MÜZİĞİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), kayakilic[at]anadolu.edu.tr, A80AE619E44CA393
+
+26564, DOÇENT, GÖKTÜRK ERDOĞAN, SİVAS CUMHURİYET ÜNİVERSİTESİ/TÜRK MÜZİĞİ DEVLET KONSERVATUVARI/TÜRK MÜZİĞİ BÖLÜMÜ/TÜRK SANAT MÜZİĞİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji ; Türk Halk Müziği (Yorumculuk), gokturkerdogan[at]cumhuriyet.edu.tr, 037DC983C39804F2
+
+109302, DOÇENT, OZAN BAYSAL, İSTANBUL TEKNİK ÜNİVERSİTESİ/İSTANBUL TÜRK MUSİKİSİ DEVLET KONSERVATUVARI/MÜZİKOLOJİ BÖLÜMÜ/MÜZİKOLOJİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji, ozanbaysal[at]itu.edu.tr, B583A603855D763B
+
+151196, DOÇENT, SİNEM ÖZDEMİR, İSTANBUL TEKNİK ÜNİVERSİTESİ/İSTANBUL TÜRK MUSİKİSİ DEVLET KONSERVATUVARI/SES EĞİTİMİ BÖLÜMÜ/SES EĞİTİMİ ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik  Türk  Müziği ( Sanat Müziği ) ; Yorumculuk, sinemozdemir[at]gmail.com, 0CADD973B16A3C0A
+
+217442, DOÇENT, ŞEYMA ERSOY ÇAK, İSTANBUL TEKNİK ÜNİVERSİTESİ/İSTANBUL TÜRK MUSİKİSİ DEVLET KONSERVATUVARI/MÜZİKOLOJİ BÖLÜMÜ/MÜZİKOLOJİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji, ersoyseyma[at]itu.edu.tr, 1B9A6F931C4E5CAD
+
+43839, DOÇENT, TAYLAN ÖZDEMİR, İSTANBUL TEKNİK ÜNİVERSİTESİ/İSTANBUL TÜRK MUSİKİSİ DEVLET KONSERVATUVARI/MÜZİK TEKNOLOJİSİ BÖLÜMÜ/MÜZİK TEKNOLOJİLERİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzik Teknolojileri, ozdemirtaylan[at]itu.edu.tr, 72E83BD13C2B4D24
+
+203577, DOÇENT, ZEYNEP BARUT, İSTANBUL TEKNİK ÜNİVERSİTESİ/İSTANBUL TÜRK MUSİKİSİ DEVLET KONSERVATUVARI/ÇALGI EĞİTİMİ BÖLÜMÜ/ÇALGI EĞİTİMİ ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzik Teorileri ; Klasik  Türk  Müziği ( Sanat Müziği ), barut[at]itu.edu.tr, C4AF2E3503F87D9B
+
+109655, DOÇENT, ŞİRİN KARADENİZ GÜNEY, İSTANBUL TEKNİK ÜNİVERSİTESİ/İSTANBUL TÜRK MUSİKİSİ DEVLET KONSERVATUVARI/BESTECİLİK BÖLÜMÜ/BESTECİLİK ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzik Teorileri ; Türk Sanat Müziği (Kompozisyon) ; Müzikoloji, karadenizsi[at]itu.edu.tr, 502A1850F7439C0B
+
+152985, DOÇENT, CENK ÖZTÜRK, İSTANBUL TEKNİK ÜNİVERSİTESİ/İSTANBUL TÜRK MUSİKİSİ DEVLET KONSERVATUVARI/ÇALGI EĞİTİMİ BÖLÜMÜ/ÇALGI EĞİTİMİ ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği ; Yorumculuk, ozturkcenk[at]itu.edu.tr, 5A575C3AA8C24B2F
+
+152400, DOÇENT, YELDA ÖZGEN ÖZTÜRK, İSTANBUL TEKNİK ÜNİVERSİTESİ/İSTANBUL TÜRK MUSİKİSİ DEVLET KONSERVATUVARI/ÇALGI EĞİTİMİ BÖLÜMÜ/ÇALGI EĞİTİMİ ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, 97A660DE19EE7111
+
+151190, DOÇENT, BURCU YILDIZ ATAŞ, İSTANBUL TEKNİK ÜNİVERSİTESİ/İSTANBUL TÜRK MUSİKİSİ DEVLET KONSERVATUVARI/MÜZİKOLOJİ BÖLÜMÜ/MÜZİKOLOJİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji, yildizburc[at]itu.edu.tr, 3AA498109660405C
+
+152516, DOÇENT, HATİCE DOĞAN SEVİNÇ, İSTANBUL TEKNİK ÜNİVERSİTESİ/İSTANBUL TÜRK MUSİKİSİ DEVLET KONSERVATUVARI/ÇALGI EĞİTİMİ BÖLÜMÜ/ÇALGI EĞİTİMİ ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik  Türk  Müziği ( Sanat Müziği ) ; Yorumculuk, hdogansevinc[at]itu.edu.tr, C32FBAB2B2D41545
+
+151185, DOÇENT, ZEYNEP GONCA İNCEDERE, İSTANBUL TEKNİK ÜNİVERSİTESİ/İSTANBUL TÜRK MUSİKİSİ DEVLET KONSERVATUVARI/MÜZİKOLOJİ BÖLÜMÜ/MÜZİKOLOJİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji, zgoncat[at]itu.edu.tr, 706131483DE17FD3
+
+120878, DOÇENT, SITKI KANDEMİR BASMACIOĞLU, İSTANBUL TEKNİK ÜNİVERSİTESİ/İSTANBUL TÜRK MUSİKİSİ DEVLET KONSERVATUVARI/ÇALGI EĞİTİMİ BÖLÜMÜ/ÇALGI EĞİTİMİ ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), kanbasmacioglu[at]itu.edu.tr, 1D6FA6D65842F975
+
+151186, DOÇENT, GÜLAY KARAMAHMUTOĞLU, İSTANBUL TEKNİK ÜNİVERSİTESİ/İSTANBUL TÜRK MUSİKİSİ DEVLET KONSERVATUVARI/MÜZİK TEORİSİ BÖLÜMÜ/MÜZİK TEORİSİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzik Teorileri ; Müzikoloji, C89CD2F3EC50986A
+
+118457, DOÇENT, NEVA ÖZGEN KÖSOĞLU, İSTANBUL TEKNİK ÜNİVERSİTESİ/İSTANBUL TÜRK MUSİKİSİ DEVLET KONSERVATUVARI/ÇALGI EĞİTİMİ BÖLÜMÜ/ÇALGI EĞİTİMİ ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Yorumculuk ; Klasik  Türk  Müziği ( Sanat Müziği ), ozgenn[at]itu.edu.tr, EAC8294A1FA1DFC3

@@ -1,0 +1,39 @@
+203060, DOKTOR ÖĞRETİM ÜYESİ, VSEVOLOD KUZMIN, SELÇUK ÜNİVERSİTESİ/DİLEK SABANCI DEVLET KONSERVATUVARI/SAHNE SANATLARI BÖLÜMÜ/OPERA ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), 87CCAF897900F2AA
+
+248526, DOKTOR ÖĞRETİM ÜYESİ, DİLAN AKINCI, HALİÇ ÜNİVERSİTESİ/KONSERVATUVAR/TÜRK MUSİKİSİ BÖLÜMÜ/TÜRK MUSİKİSİ PR. /, Güzel Sanatlar Temel Alanı, Müzik, Türk Halk Müziği (Yorumculuk) ; Müzik Teorileri ; Müzikoloji, dilanakinci[at]halic.edu.tr, E3C50FBCE48A821A
+
+44922, DOKTOR ÖĞRETİM ÜYESİ, ESRA MAMAÇ, YAŞAR ÜNİVERSİTESİ/SANAT VE TASARIM FAKÜLTESİ/MÜZİK BÖLÜMÜ/MÜZİK PR. /, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), esra.kalkanoglu[at]yasar.edu.tr, 40A789DF408158FE
+
+330836, DOKTOR ÖĞRETİM ÜYESİ, TİMUÇİN ŞAHİN, YAŞAR ÜNİVERSİTESİ/SANAT VE TASARIM FAKÜLTESİ/MÜZİK BÖLÜMÜ/MÜZİK PR. /, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Kompozisyon) ; Müzik Teorileri, timucin.sahin[at]yasar.edu.tr, 481AF2F9E3D1EA0A
+
+40340, DOKTOR ÖĞRETİM ÜYESİ, SERDAR MAMAÇ, YAŞAR ÜNİVERSİTESİ/SANAT VE TASARIM FAKÜLTESİ/MÜZİK BÖLÜMÜ/MÜZİK PR. /, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), serdar.mamac[at]yasar.edu.tr, 17157B6798D6B178
+
+42715, DOKTOR ÖĞRETİM ÜYESİ, AYŞE PAYAM GÜL SUSANNİ, YAŞAR ÜNİVERSİTESİ/SANAT VE TASARIM FAKÜLTESİ/MÜZİK BÖLÜMÜ/MÜZİK PR. /, Güzel Sanatlar Temel Alanı, Müzik, payam.susanni[at]yasar.edu.tr, C550BFE9CF41715C
+
+140935, DOKTOR ÖĞRETİM ÜYESİ, ÖZLEM ER CİVELEK, BAŞKENT ÜNİVERSİTESİ/KONSERVATUVAR/MÜZİK BÖLÜMÜ/YAYLI ÇALGILAR PR. /, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), ozlem.er1983[at]gmail.com, 26252974A4EA1D87
+
+140926, DOKTOR ÖĞRETİM ÜYESİ, NACİYE SENEM AKGÖL, BAŞKENT ÜNİVERSİTESİ/KONSERVATUVAR/MÜZİK BÖLÜMÜ/YAYLI ÇALGILAR PR. /, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), C0ED7E48154148B7
+
+183961, DOKTOR ÖĞRETİM ÜYESİ, RAMAZAN YİĞİT ÖZATALAY, İSTANBUL BİLGİ ÜNİVERSİTESİ/SOSYAL VE BEŞERİ BİLİMLER FAKÜLTESİ/MÜZİK BÖLÜMÜ/MÜZİK PR. /, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Kompozisyon) ; Müzik Teorileri, yigit.ozatalay[at]bilgi.edu.tr, C961502E9193C10E
+
+341939, DOKTOR ÖĞRETİM ÜYESİ, CEM ÖMEROĞLU, İSTANBUL BİLGİ ÜNİVERSİTESİ/SOSYAL VE BEŞERİ BİLİMLER FAKÜLTESİ/MÜZİK BÖLÜMÜ/MÜZİK PR. /, Güzel Sanatlar Temel Alanı, Müzik, Müzik Teknolojileri, cem.omeroglu[at]bilgi.edu.tr, 208ED4CFE358DAE5
+
+237718, DOKTOR ÖĞRETİM ÜYESİ, ENİS GÜMÜŞ, İSTANBUL BİLGİ ÜNİVERSİTESİ/SOSYAL VE BEŞERİ BİLİMLER FAKÜLTESİ/MÜZİK BÖLÜMÜ/MÜZİK PR. /, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Kompozisyon), enis.gumus[at]bilgi.edu.tr, E635CA418E38DE11
+
+341666, DOKTOR ÖĞRETİM ÜYESİ, VERDA KARAÇİL CERİT, NİŞANTAŞI ÜNİVERSİTESİ/SANAT VE TASARIM FAKÜLTESİ/MÜZİK BÖLÜMÜ/MÜZİK PR. /, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), verda.karacilcerit[at]nisantasi.edu.tr, 86A616D26E3CDB6B
+
+341738, DOKTOR ÖĞRETİM ÜYESİ, FÜSUN NAZ ALTINEL, NİŞANTAŞI ÜNİVERSİTESİ/SANAT VE TASARIM FAKÜLTESİ/MÜZİK BÖLÜMÜ/MÜZİK PR. /, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), nazaltinel[at]gmail.com, 09D4F1D50D3F97DB
+
+296272, DOKTOR ÖĞRETİM ÜYESİ, FATİH AKMAN, MİLLİ SAVUNMA ÜNİVERSİTESİ/BANDO ASTSUBAY MESLEK YÜKSEKOKULU/ÜFLEMELİ VE VURMALI ÇALGILAR BÖLÜMÜ/ÜFLEMELİ VE VURMALI ÇALGILAR PR./, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği ; Müzikoloji, fthakman[at]gmail.com, 93CE43FC12510D33
+
+226238, DOKTOR ÖĞRETİM ÜYESİ, MEHRIBAN MAMMADALIYEVA, IĞDIR ÜNİVERSİTESİ/GÜZEL SANATLAR FAKÜLTESİ/MÜZİKOLOJİ BÖLÜMÜ/MÜZİKOLOJİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji, magayeva722[at]gmail.com, C0F04ACD341A2783
+
+275982, DOKTOR ÖĞRETİM ÜYESİ, MOHAMMAD RANJBARI, VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ/EĞİTİM FAKÜLTESİ/GÜZEL SANATLAR EĞİTİMİ BÖLÜMÜ/MÜZİK EĞİTİMİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), mohammadranjbari[at]yyu.edu.tr, CF8A8B1BBAA5D288
+
+200936, DOKTOR ÖĞRETİM ÜYESİ, FUAD ALIZADE, VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ/EĞİTİM FAKÜLTESİ/GÜZEL SANATLAR EĞİTİMİ BÖLÜMÜ/MÜZİK EĞİTİMİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, fuadalizade[at]gmail.com, 46855AA23C1D53EE
+
+187237, DOKTOR ÖĞRETİM ÜYESİ, MEHRIBAN ALIYEVA, BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ/GÜZEL SANATLAR FAKÜLTESİ/MÜZİK BÖLÜMÜ/MÜZİK PERFORMANSLARI ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji, mehriban.aliyeva[at]ibu.edu.tr, AC8E5365FA13824E
+
+165373, DOKTOR ÖĞRETİM ÜYESİ, MELİH BALÇIK, MALTEPE ÜNİVERSİTESİ/KONSERVATUVAR/MÜZİK BÖLÜMÜ/YAYLI ÇALGILAR PR. /, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), 6424BDFD7D4B5248
+
+178193, DOKTOR ÖĞRETİM ÜYESİ, ÇETİN KÖRÜKÇÜOĞLU, İSTANBUL OKAN ÜNİVERSİTESİ/KONSERVATUVAR/MÜZİK BÖLÜMÜ/MÜZİK PR. /, Güzel Sanatlar Temel Alanı, Müzik, Klasik  Türk  Müziği ( Sanat Müziği ), 7581720727F4A41F

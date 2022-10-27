@@ -1,0 +1,39 @@
+148443, ÖĞRETİM GÖREVLİSİ, DENİZ ÇAĞLAR, AYDIN ADNAN MENDERES ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/YAYLI ÇALGILAR ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği ; Yorumculuk, dcaglar[at]adu.edu.tr, 002C7A635A58EED4
+
+15728, ÖĞRETİM GÖREVLİSİ, UMUT GÜNGÖR, AYDIN ADNAN MENDERES ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/PİYANO ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk) ; Müzikoloji ; Müzik Teorileri, umut.gungor[at]adu.edu.tr, 769DF53802AEB780
+
+185826, ÖĞRETİM GÖREVLİSİ, CEREN DEMİROK, AYDIN ADNAN MENDERES ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/GELENEKSEL TÜRK MÜZİĞİ BÖLÜMÜ/TÜRK HALK MÜZİĞİ ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, ceren.demirok[at]adu.edu.tr, 122512BCBC145F00
+
+151034, ÖĞRETİM GÖREVLİSİ, AYTEKİN KANDEMİR, AYDIN ADNAN MENDERES ÜNİVERSİTESİ/REKTÖRLÜK/, Güzel Sanatlar Temel Alanı, Müzik, aytekinkandemir[at]hotmail.com, 90A20E26F0D45CB6
+
+149927, ÖĞRETİM GÖREVLİSİ, ESRA ÇETİN, AYDIN ADNAN MENDERES ÜNİVERSİTESİ/REKTÖRLÜK/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji, esracetin1981[at]gmail.com, A78F4BC58A1DD8DD
+
+149837, ÖĞRETİM GÖREVLİSİ, KADRİYE OLCAY ŞAHİN, AYDIN ADNAN MENDERES ÜNİVERSİTESİ/REKTÖRLÜK/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği ; Yorumculuk ; Müzik Teorileri, osahin[at]adu.edu.tr, D0EA4A479A3AE457
+
+151035, ÖĞRETİM GÖREVLİSİ, ÇAĞDAŞ AKINCI, AYDIN ADNAN MENDERES ÜNİVERSİTESİ/REKTÖRLÜK/, Güzel Sanatlar Temel Alanı, Müzik, Türk Halk müziği ; Yorumculuk ; Müzik Teorileri, cakinci[at]adu.edu.tr, CAAE00729BFC247A
+
+340418, ÖĞRETİM GÖREVLİSİ, EMRE ÜSTGÜL, AYDIN ADNAN MENDERES ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/GELENEKSEL TÜRK MÜZİĞİ BÖLÜMÜ/TÜRK SANAT MÜZİĞİ ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, eustgul[at]adu.edu.tr, 083B6BC94BD242E9
+
+149356, ÖĞRETİM GÖREVLİSİ, DEVRİM DEMİR YEŞİLPINAR, AYDIN ADNAN MENDERES ÜNİVERSİTESİ/REKTÖRLÜK/, Güzel Sanatlar Temel Alanı, Müzik, deyesilpinar[at]hotmail.com, 97C5AA7D1EE0BDDB
+
+191697, ÖĞRETİM GÖREVLİSİ, YUSUF ÖZBAŞ, GAZİANTEP ÜNİVERSİTESİ/TÜRK MUSİKİSİ DEVLET KONSERVATUVARI/SES EĞİTİMİ BÖLÜMÜ/TÜRK HALK MÜZİĞİ ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği ; Müzik Teorileri ; Yorumculuk, ozbas[at]gantep.edu.tr, D8E6519EFBB62B14
+
+147980, ÖĞRETİM GÖREVLİSİ, HAMDİ HİKMET GEÇİN, GAZİANTEP ÜNİVERSİTESİ/TÜRK MUSİKİSİ DEVLET KONSERVATUVARI/SES EĞİTİMİ BÖLÜMÜ/TÜRK HALK MÜZİĞİ ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği ; Müzik Teorileri ; Kompozisyon, hgecin[at]gantep.edu.tr, F3D7AFA372CC0BE5
+
+191907, ÖĞRETİM GÖREVLİSİ, YAŞAR SEÇKİN, GAZİANTEP ÜNİVERSİTESİ/TÜRK MUSİKİSİ DEVLET KONSERVATUVARI/TÜRK MÜZİĞİ BÖLÜMÜ/TÜRK HALK MÜZİĞİ ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Türk Halk müziği ; Müzikoloji ; Müzik Teorileri, seckin[at]gantep.edu.tr, B4D590AF7B216B28
+
+26639, ÖĞRETİM GÖREVLİSİ, FAHRİ ÇEPİK, GAZİANTEP ÜNİVERSİTESİ/TÜRK MUSİKİSİ DEVLET KONSERVATUVARI/TÜRK MÜZİĞİ BÖLÜMÜ/TÜRK HALK MÜZİĞİ ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Türk Halk müziği, 6937A898EA191C21
+
+186149, ÖĞRETİM GÖREVLİSİ, ADİL ÇETE, GAZİANTEP ÜNİVERSİTESİ/TÜRK MUSİKİSİ DEVLET KONSERVATUVARI/TÜRK MÜZİĞİ BÖLÜMÜ/TÜRK HALK MÜZİĞİ ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Türk Halk müziği, adilcete[at]gmail.com, 0AA7FF992CD3F279
+
+147983, ÖĞRETİM GÖREVLİSİ, SEYHAN ERPULA, GAZİANTEP ÜNİVERSİTESİ/TÜRK MUSİKİSİ DEVLET KONSERVATUVARI/TÜRK MÜZİĞİ BÖLÜMÜ/TÜRK HALK MÜZİĞİ ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Türk Sanat Müziği (Kompozisyon) ; Türk Sanat Müziği (Yorumculuk) ; Müzikoloji, erpula[at]gantep.edu.tr, 5BB593929EF785D0
+
+26746, ÖĞRETİM GÖREVLİSİ, YILMAZ YAVUZ, GAZİANTEP ÜNİVERSİTESİ/TÜRK MUSİKİSİ DEVLET KONSERVATUVARI/TÜRK MÜZİĞİ BÖLÜMÜ/TÜRK SANAT MÜZİĞİ TEMEL BİLİMLER ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Türk Halk müziği ; Müzikoloji ; Yorumculuk, yilmazyavuz77[at]gmail.com, C203ECE59ABEC923
+
+150274, ÖĞRETİM GÖREVLİSİ, TURGUT OĞUZ, GAZİANTEP ÜNİVERSİTESİ/TURİZM VE OTELCİLİK MESLEK YÜKSEKOKULU/OTEL, LOKANTA VE İKRAM HİZMETLERİ BÖLÜMÜ/AŞÇILIK PR./, Güzel Sanatlar Temel Alanı, Müzik, Türk Halk müziği ; Müzikoloji, turgutoguz[at]gantep.edu.tr, 9B55ACFEAE9B7B30
+
+240360, ÖĞRETİM GÖREVLİSİ, ERSİN YILDIRIMER, GAZİANTEP ÜNİVERSİTESİ/İSLAHİYE MESLEK YÜKSEKOKULU/YÖNETİM VE ORGANİZASYON BÖLÜMÜ/İŞLETME YÖNETİMİ PR./, Güzel Sanatlar Temel Alanı, Müzik, Türk Halk müziği, ersinyildirimer[at]gmail.com, E58BB3538C8AEDD5
+
+248536, ÖĞRETİM GÖREVLİSİ, MUSTAFA BALÇIN, GAZİANTEP ÜNİVERSİTESİ/ARABAN MESLEK YÜKSEKOKULU/BİTKİSEL VE HAYVANSAL ÜRETİM BÖLÜMÜ/ORGANİK TARIM PR./, Güzel Sanatlar Temel Alanı, Müzik, Türk Halk müziği, mustafabalcin61[at]gmail.com, BAF17BC2FE4BE0F5
+
+240398, ÖĞRETİM GÖREVLİSİ, HÜSEYİN KAYNAK, GAZİANTEP ÜNİVERSİTESİ/NİZİP MESLEK YÜKSEKOKULU/BÜRO HİZMETLERİ VE SEKRETERLİK BÖLÜMÜ/ÇAĞRI MERKEZİ HİZMETLERİ PR./, Güzel Sanatlar Temel Alanı, Müzik, Türk Halk Müziği (Yorumculuk) ; Türk Halk Müziği (Kompozisyon), huseyinkaynak40[at]gmail.com, C387027F4D86ACBC

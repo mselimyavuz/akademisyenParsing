@@ -1,0 +1,39 @@
+182573, PROFESÖR, EVREN BİLGENOĞLU, HACETTEPE ÜNİVERSİTESİ/ANKARA DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/YAYLI ÇALGILAR ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, evrenbil[at]hacettepe.edu.tr, 98CE8AE6648AF2AF
+
+109445, PROFESÖR, CENK GÜRAY, HACETTEPE ÜNİVERSİTESİ/ANKARA DEVLET KONSERVATUVARI/MÜZİK BİLİMLERİ BÖLÜMÜ/MÜZİK TEORİLERİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzik Teorileri ; Müzikoloji ; Türk Halk Müziği (Yorumculuk), cenk.guray[at]hacettepe.edu.tr, 8714870911415883
+
+58436, PROFESÖR, BURAK TÜZÜN, HACETTEPE ÜNİVERSİTESİ/ANKARA DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/KOMPOZİSYON VE ORKESTRA ŞEFLİĞİ ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Orkestra Şefliği ; Klasik Batı Müziği (Kompozisyon) ; Klasik Batı Müziği (Yorumculuk), buraktuzun[at]gmail.com, 0D7A898C9110419E
+
+46209, PROFESÖR, HALİL LEVENT KUTERDEM, HACETTEPE ÜNİVERSİTESİ/ANKARA DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/KOMPOZİSYON VE ORKESTRA ŞEFLİĞİ ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Kompozisyon) ; Klasik Batı Müziği (Yorumculuk) ; Müzik Teorileri, 0D3988053A8D703C
+
+169595, PROFESÖR, EBRU KARAAĞAÇ, HACETTEPE ÜNİVERSİTESİ/ANKARA DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/YAYLI ÇALGILAR ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), ebru.karaagac[at]hacettepe.edu.tr, C912B87818595462
+
+167159, PROFESÖR, AHMET ABDURRAHMAN KANNECİ, HACETTEPE ÜNİVERSİTESİ/ANKARA DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/PİYANO ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği, ahmetabdurrahman.kanneci[at]hacettepe.edu.tr, 2328D69686C35306
+
+7798, PROFESÖR, OSMAN TÜREV BERKİ, HACETTEPE ÜNİVERSİTESİ/ANKARA DEVLET KONSERVATUVARI/MÜZİK BİLİMLERİ BÖLÜMÜ/MÜZİKOLOJİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzik Teorileri ; Klasik Batı Müziği (Yorumculuk), tberki[at]hacettepe.edu.tr, E1350E5B5D9C7950
+
+114300, PROFESÖR, DEMET AKKILIÇ, HACETTEPE ÜNİVERSİTESİ/ANKARA DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/PİYANO ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), dakkilic[at]hacettepe.edu.tr, AED53244DD2DDF0C
+
+111673, PROFESÖR, AYTEN KAPLAN, HACETTEPE ÜNİVERSİTESİ/ANKARA DEVLET KONSERVATUVARI/MÜZİK BİLİMLERİ BÖLÜMÜ/MÜZİKOLOJİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji ; Türk Halk Müziği (Yorumculuk) ; Türk Sanat Müziği (Yorumculuk), aykap[at]hacettepe.edu.tr, 7574823A601AD2CC
+
+21313, PROFESÖR, HALİDE HANDE DALKILIÇ ÖZKOÇAK, HACETTEPE ÜNİVERSİTESİ/ANKARA DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/PİYANO ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), hande[at]handedalkilic.com, 6E84F3A4CFAA1FB1
+
+9104, PROFESÖR, AYŞE BİNNUR EKBER, HACETTEPE ÜNİVERSİTESİ/ANKARA DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/PİYANO ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), bekber[at]hacettepe.edu.tr, 3BD16F81D45527B3
+
+42549, PROFESÖR, METİN MUNZUR, HACETTEPE ÜNİVERSİTESİ/ANKARA DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/KOMPOZİSYON VE ORKESTRA ŞEFLİĞİ ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Kompozisyon ; Klasik Batı Müziği, munzur[at]hacettepe.edu.tr, A23AB5CFA2616C5E
+
+35503, PROFESÖR, FATMA EYLEM ÖNDER BAŞARIR, HACETTEPE ÜNİVERSİTESİ/ANKARA DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/YAYLI ÇALGILAR ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Yorumculuk, 2D9E3F2277F19FE1
+
+133942, PROFESÖR, FATMA CEYLAN KABAKCI, HACETTEPE ÜNİVERSİTESİ/ANKARA DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/YAYLI ÇALGILAR ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği ; Yorumculuk, EB84CDD1805760AF
+
+13055, PROFESÖR, ALPER MÜFETTİŞOĞLU, HACETTEPE ÜNİVERSİTESİ/ANKARA DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/YAYLI ÇALGILAR ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), alperm[at]hacettepe.edu.tr, 17BC342BAD7B0B93
+
+20087, PROFESÖR, MUHAMMED EMİN SOYDAŞ, ÇANKIRI KARATEKİN ÜNİVERSİTESİ/SANAT, TASARIM VE MİMARLIK FAKÜLTESİ/MÜZİK BÖLÜMÜ/MÜZİK TEKNOLOJİSİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji, 7AA1A36A14429CF9
+
+221400, PROFESÖR, ELİF ÖNAL, ANKARA ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/ÇALGI ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), cubukcu[at]ankara.edu.tr, 2DFAF9FDD91C2EB7
+
+20472, PROFESÖR, NALAN YİĞİT, ANKARA ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/SAHNE SANATLARI BÖLÜMÜ/ŞAN ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), nalanyigit[at]ankara.edu.tr, BB277248F1EA8F2D
+
+10441, PROFESÖR, HASAN YENER, ANKARA ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/SAHNE SANATLARI BÖLÜMÜ/ŞAN ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Yorumculuk ; Klasik Batı Müziği, 4C1B68E030BE6698
+
+101153, PROFESÖR, TURAN SAĞER, YILDIZ TEKNİK ÜNİVERSİTESİ/SANAT VE TASARIM FAKÜLTESİ/SAHNE SANATLARI BÖLÜMÜ/MÜZİK TOPLULUKLARI ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzik Teorileri ; Müzikoloji ; Müzik Teknolojileri, tsager[at]yildiz.edu.tr, 4B4975A6A2A184F3

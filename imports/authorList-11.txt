@@ -1,0 +1,39 @@
+4262, PROFESÖR, ADNAN METİN KARKIN, İZMİR DEMOKRASİ ÜNİVERSİTESİ/GÜZEL SANATLAR FAKÜLTESİ/MÜZİK BÖLÜMÜ/MÜZİKOLOJİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji, metin.karkin[at]idu.edu.tr, A2D362903C9B3104
+
+121800, PROFESÖR, HAKKI ALPER MARAL, ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ/MÜZİK BİLİMLERİ VE TEKNOLOJİLERİ FAKÜLTESİ/MÜZİKOLOJİ BÖLÜMÜ/MÜZİKOLOJİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji, alpermaral[at]mgu.edu.tr, 30AF2B22F7185BB2
+
+30361, PROFESÖR, EBRU TEMİZ, ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ/MÜZİK VE GÜZEL SANATLAR EĞİTİM FAKÜLTESİ/MÜZİK EĞİTİMİ BÖLÜMÜ/MÜZİK EĞİTİMİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji ; Türk Halk Müziği (Yorumculuk) ; Türk Sanat Müziği (Yorumculuk), FF6B989AC8538FCF
+
+201015, PROFESÖR, TOĞROUL GANİOĞLU, ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ/İCRA SANATLARI FAKÜLTESİ/ÇALGI EĞİTİMİ BÖLÜMÜ/YAYLI ÇALGILAR ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk) ; Orkestra Şefliği, togrulganiyev[at]gmail.com, 10579BF65875AAC1
+
+162958, PROFESÖR, GÖKHAN EKİM, ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ/İCRA SANATLARI FAKÜLTESİ/ÇALGI EĞİTİMİ BÖLÜMÜ/TELLİ ÇALGILAR ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Türk Halk Müziği (Yorumculuk), gekim75[at]hotmail.com, 3AC85857F19CF8EF
+
+181856, PROFESÖR, OKAN MURAT ÖZTÜRK, ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ/MÜZİK BİLİMLERİ VE TEKNOLOJİLERİ FAKÜLTESİ/MÜZİKOLOJİ BÖLÜMÜ/MÜZİKOLOJİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji ; Müzik Teorileri ; Türk Halk Müziği (Yorumculuk), mozturk[at]mgu.edu.tr, 411D2F6A54CFF184
+
+101124, PROFESÖR, ABDURRAHMAN TARİKCİ, ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ/MÜZİK BİLİMLERİ VE TEKNOLOJİLERİ FAKÜLTESİ/MÜZİK TEKNOLOJİSİ BÖLÜMÜ/SES VE KAYIT TEKNOLOJİLERİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzik Teknolojileri, 7817DC8B9C3D62DA
+
+139533, PROFESÖR, SERDA TÜRKEL OTER, ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ/İCRA SANATLARI FAKÜLTESİ/SES EĞİTİMİ BÖLÜMÜ/GELENEKSEL MÜZİKLER ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Türk Sanat Müziği (Yorumculuk) ; Türk Sanat Müziği (Kompozisyon) ; Müzik Teorileri, serdaoter[at]mgu.edu.tr, 05001518ED31413D
+
+106856, PROFESÖR, SEVİLAY ÇINAR, ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ/TÜRK MÜZİĞİ DEVLET KONSERVATUVARI/MÜZİKOLOJİ BÖLÜMÜ/MÜZİKOLOJİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji ; Türk Halk Müziği (Yorumculuk) ; Müzik Teorileri, 67844EE28811CBC3
+
+152637, PROFESÖR, IŞIL GÜNEŞ MODİRİ DİLEK, TRABZON ÜNİVERSİTESİ/FATİH EĞİTİM FAKÜLTESİ/GÜZEL SANATLAR EĞİTİMİ BÖLÜMÜ/MÜZİK EĞİTİMİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji ; Klasik Batı Müziği (Yorumculuk), 7E5FF19B2D62AA52
+
+128410, PROFESÖR, GÖKMEN ÖZMENTEŞ, AKDENİZ ÜNİVERSİTESİ/GÜZEL SANATLAR FAKÜLTESİ/MÜZİK BÖLÜMÜ/MÜZİK ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, gozmentes[at]gmail.com, 27F007C32C4EC745
+
+180513, PROFESÖR, ATTİLA KADRİ ŞENDİL, AKDENİZ ÜNİVERSİTESİ/ANTALYA DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/KOMPOZİSYON VE ORKESTRA ŞEFLİĞİ ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Kompozisyon), aksendil[at]akdeniz.edu.tr, B575C90625F6A271
+
+204754, PROFESÖR, AYHAN HELVACI, BURSA ULUDAĞ ÜNİVERSİTESİ/GÜZEL SANATLAR FAKÜLTESİ/SAHNE SANATLARI BÖLÜMÜ/OYUNCULUK ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, ahelvaci[at]uludag.edu.tr, 4B91780FD25BBC95
+
+185551, PROFESÖR, NUH FİKRİ SOYSAL, TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/TÜRK MÜZİĞİ BÖLÜMÜ/TÜRK MÜZİĞİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji ; Türk Halk Müziği (Yorumculuk) ; Türk Halk Müziği (Kompozisyon), 1FEFB0339A533733
+
+160509, PROFESÖR, YAKUP ALPER VARIŞ, ONDOKUZ MAYIS ÜNİVERSİTESİ/EĞİTİM FAKÜLTESİ/GÜZEL SANATLAR EĞİTİMİ BÖLÜMÜ/MÜZİK EĞİTİMİ ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji ; Klasik Batı Müziği (Yorumculuk) ; Orkestra Şefliği, yalperv[at]omu.edu.tr, F81C4E35C19F7C51
+
+127001, DOÇENT, EKİN ÇORAKLI KAHRAMAN, BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ/EĞİTİM FAKÜLTESİ/GÜZEL SANATLAR EĞİTİMİ BÖLÜMÜ/MÜZİK EĞİTİMİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji, ekincorakli[at]gmail.com, D169233E3C7C44DF
+
+118018, DOÇENT, BERNA ÖZKUT, AFYON KOCATEPE ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/SAHNE SANATLARI BÖLÜMÜ/OPERA ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), bozkut[at]aku.edu.tr, 0D728B8379638437
+
+57997, DOÇENT, ÇAĞHAN ADAR, AFYON KOCATEPE ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/TÜRK SANAT MÜZİĞİ BÖLÜMÜ/TÜRK SANAT MÜZİĞİ TEMEL BİLİMLER ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji ; Klasik  Türk  Müziği ( Sanat Müziği ) ; Müzik Teorileri, 8FC64A86BF2199DB
+
+117042, DOÇENT, YILDIRIM AKTAŞ, AFYON KOCATEPE ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/TÜRK SANAT MÜZİĞİ BÖLÜMÜ/TÜRK SANAT MÜZİĞİ SES EĞİTİMİ ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Türk Sanat Müziği (Yorumculuk) ; Müzik Teorileri ; Türk Halk Müziği (Yorumculuk), yldrmaktas[at]gmail.com, 5B849436AA6F6610
+
+227731, DOÇENT, SEYHAN CANYAKAN, AFYON KOCATEPE ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/SAHNE SANATLARI BÖLÜMÜ/OPERA ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzik Teknolojileri, seyhancanyakan[at]hotmail.com, 9AF7D685D0291464

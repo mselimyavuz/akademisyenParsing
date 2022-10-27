@@ -1,0 +1,39 @@
+310003, DOÇENT, EMİNE BİLİR EYÜPOĞLU, NİŞANTAŞI ÜNİVERSİTESİ/KONSERVATUVAR/MÜZİK BÖLÜMÜ/MÜZİK PR. /, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), emine.eyupoglu[at]nisantasi.edu.tr, 789F74F5B145271B
+
+117270, ÖĞRETİM GÖREVLİSİ, GÖNENÇ SAZER, BAŞKENT ÜNİVERSİTESİ/KONSERVATUVAR/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), gonencsazer[at]gmail.com, E500C561075F399A
+
+140933, ÖĞRETİM GÖREVLİSİ, ŞERİF CAN ÜNVER, BAŞKENT ÜNİVERSİTESİ/KONSERVATUVAR/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk) ; Orkestra Şefliği, A22515F5288B99B5
+
+118964, ÖĞRETİM GÖREVLİSİ, AYÇA DAMLA BOZKURT, BAŞKENT ÜNİVERSİTESİ/KONSERVATUVAR/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), F2F7E6DFDA056D3B
+
+117700, ÖĞRETİM GÖREVLİSİ, ZEYNEP ASLI GÜLTEKİN, BAŞKENT ÜNİVERSİTESİ/KONSERVATUVAR/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), 27B71096D2113F92
+
+116455, ÖĞRETİM GÖREVLİSİ, TAŞKIN SÖZEN, BAŞKENT ÜNİVERSİTESİ/KONSERVATUVAR/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), 08A9724CC976F8BD
+
+140932, ÖĞRETİM GÖREVLİSİ, CANER GENÇER, BAŞKENT ÜNİVERSİTESİ/KONSERVATUVAR/, Güzel Sanatlar Temel Alanı, Müzik, B3B1EC5603F008A7
+
+191211, ÖĞRETİM GÖREVLİSİ, DUYSAL İMSEL, BAŞKENT ÜNİVERSİTESİ/KONSERVATUVAR/MÜZİK BÖLÜMÜ/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Kompozisyon), 6AE34A57343FE5A8
+
+116021, ÖĞRETİM GÖREVLİSİ, LALEGÜL SABUNCUOĞLU, BAŞKENT ÜNİVERSİTESİ/KÜLTÜR VE SANAT ARAŞTIRMA MERKEZİ/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), lalegul[at]baskent.edu.tr, 1478158E8FDC60BF
+
+259950, ÖĞRETİM GÖREVLİSİ, ILGAR EYYUBOV, ÇUKUROVA ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/ÜFLEMELİ VE VURMALI ÇALGILAR ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Orkestra Şefliği ; Klasik Batı Müziği (Kompozisyon) ; Klasik Batı Müziği (Yorumculuk), ilgareyyubov[at]mail.ru, A35EEC161E25F642
+
+205681, ÖĞRETİM GÖREVLİSİ, EMANUIL KALOYANOV PETROV, ÇUKUROVA ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/YAYLI ÇALGILAR PR./, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), emkopasha[at]yahoo.com, 079FBB2FAA7F2EB5
+
+150674, ÖĞRETİM GÖREVLİSİ, MADINA ZHULMURZINA, ÇUKUROVA ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/PİYANO BÖLÜMÜ/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), julmurzinamadina[at]gmail.com, 4E8FE8AEE59F1D02
+
+115898, ÖĞRETİM GÖREVLİSİ, MEHMET ARİÇ, DOKUZ EYLÜL ÜNİVERSİTESİ/İZMİR DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/PİYANO ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Yorumculuk, C7DAF570127951D3
+
+244054, ÖĞRETİM GÖREVLİSİ, EJDER PAMUKÇU, EGE ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/, Güzel Sanatlar Temel Alanı, Müzik, Müzik Teknolojileri, AB4CF40A93E270AE
+
+244066, ÖĞRETİM GÖREVLİSİ, FATİH SALİH COŞKUN, EGE ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji ; Müzik Teorileri, fatih.coskun[at]ege.edu.tr, FBE5C447EF5FE09D
+
+244056, ÖĞRETİM GÖREVLİSİ, GANİ PEKŞEN, EGE ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/, Güzel Sanatlar Temel Alanı, Müzik, Türk Halk Müziği (Yorumculuk) ; Müzikoloji ; Müzik Teorileri, 06FBF6AE6A4274EB
+
+244060, ÖĞRETİM GÖREVLİSİ, MEHMET YALGIN, EGE ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/, Güzel Sanatlar Temel Alanı, Müzik, Türk Sanat Müziği (Yorumculuk) ; Müzik Teknolojileri, myalgin[at]hotmail.com, A43B94CA3A4AE811
+
+140350, ÖĞRETİM GÖREVLİSİ, HAKAN TATYÜZ, GAZİANTEP ÜNİVERSİTESİ/TÜRK MUSİKİSİ DEVLET KONSERVATUVARI/SES EĞİTİMİ BÖLÜMÜ/TÜRK HALK MÜZİĞİ ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Türk Halk müziği ; Orkestra Şefliği ; Müzikoloji, B3C3F0B9E1FEDB18
+
+140001, ÖĞRETİM GÖREVLİSİ, SAVAŞ EKİCİ, GAZİANTEP ÜNİVERSİTESİ/TÜRK MUSİKİSİ DEVLET KONSERVATUVARI/TÜRK MÜZİĞİ BÖLÜMÜ/TÜRK HALK MÜZİĞİ ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Türk Halk Müziği (Kompozisyon) ; Türk Halk Müziği (Yorumculuk) ; Müzikoloji, 744408AF71BF915F
+
+24411, ÖĞRETİM GÖREVLİSİ, HASAN TİPİ, GAZİANTEP ÜNİVERSİTESİ/TÜRK MUSİKİSİ DEVLET KONSERVATUVARI/TÜRK MÜZİĞİ BÖLÜMÜ/TÜRK SANAT MÜZİĞİ TEMEL BİLİMLER ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik  Türk  Müziği ( Sanat Müziği ), tipi[at]gantep.edu.tr, 7A90565FE1E76DE9

@@ -1,0 +1,39 @@
+120587, DOÇENT, ÜNSAL DENİZ, İNÖNÜ ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/YAYLI ÇALGILAR ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji, unsal.deniz[at]inonu.edu.tr, 510A122C19515356
+
+218285, DOÇENT, MEHMET GÜNEŞ AÇIKGÖZ, İNÖNÜ ÜNİVERSİTESİ/GÜZEL SANATLAR VE TASARIM FAKÜLTESİ/MÜZİK BİLİMLERİ BÖLÜMÜ/MÜZİK TEKNOLOJİSİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzik Teorileri, gunes.acikgoz[at]inonu.edu.tr, 3A170992BEE070EB
+
+189345, DOÇENT, EBRU BULUR, İSTANBUL ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/KOMPOZİSYON VE ORKESTRA ŞEFLİĞİ ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzik Teorileri, ebru.bulur[at]istanbul.edu.tr, AC8960090590BA9B
+
+199428, DOÇENT, ÇİSEM ÖNVER ZAFER, TRAKYA ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/ÜFLEME VE VURMA ÇALGILAR ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), F0D38CA73EF2C3E1
+
+16736, DOÇENT, EMRE PINARBAŞI, ONDOKUZ MAYIS ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/TÜRK MÜZİĞİ BÖLÜMÜ/TÜRK SANAT MÜZİĞİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Türk Sanat Müziği (Yorumculuk), emrepinarbasi[at]gmail.com, 7D144EA9552E75E4
+
+111181, ÖĞRETİM GÖREVLİSİ, GÜL GÜREL, BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ/EĞİTİM FAKÜLTESİ/GÜZEL SANATLAR EĞİTİMİ BÖLÜMÜ/MÜZİK EĞİTİMİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), gygurel[at]hotmail.com, C1E3E671410D4F54
+
+111997, ÖĞRETİM GÖREVLİSİ, SAVAŞ İNCİROĞLU, BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ/EĞİTİM FAKÜLTESİ/GÜZEL SANATLAR EĞİTİMİ BÖLÜMÜ/MÜZİK EĞİTİMİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Yorumculuk, savas_inciroglu[at]hotmail.com, D653D11A6E1DC0A0
+
+111144, ÖĞRETİM GÖREVLİSİ, SEVDA GEDİK İNCİROĞLU, BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ/EĞİTİM FAKÜLTESİ/GÜZEL SANATLAR EĞİTİMİ BÖLÜMÜ/MÜZİK EĞİTİMİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Yorumculuk, sevdagedikinciroglu[at]hotmail.com, CB1F6961BD7E1FEA
+
+127173, ÖĞRETİM GÖREVLİSİ, GAMZE ÇALIK ÇETİN, BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ/EĞİTİM FAKÜLTESİ/TEMEL EĞİTİM BÖLÜMÜ/SINIF EĞİTİMİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği ; Türk Halk müziği ; Yorumculuk, cetin_g1[at]ibu.edu.tr, 5E81BFA5B6BAE1C3
+
+234859, ÖĞRETİM GÖREVLİSİ, TUBA BARUTCU, AFYON KOCATEPE ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/TÜRK HALK MÜZİĞİ BÖLÜMÜ/TÜRK HALK MÜZİĞİ ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik  Türk  Müziği ( Sanat Müziği ) ; Türk Halk müziği ; Yorumculuk, tubabarutcu[at]aku.edu.tr, 329B878C9ABA03CB
+
+127969, ÖĞRETİM GÖREVLİSİ, ALPER SOYBİLGEN, AFYON KOCATEPE ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/TÜRK SANAT MÜZİĞİ BÖLÜMÜ/TEMEL BİLİMLER ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik  Türk  Müziği ( Sanat Müziği ), 6634A00F1448BCC6
+
+117682, ÖĞRETİM GÖREVLİSİ, ŞÜKRÜ SUAT TOYDEMİR, AFYON KOCATEPE ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/TÜRK SANAT MÜZİĞİ BÖLÜMÜ/TEMEL BİLİMLER ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik  Türk  Müziği ( Sanat Müziği ) ; Müzik Teorileri ; Yorumculuk, suattoy[at]hotmail.com, 0F033ADD9FEFA513
+
+127971, ÖĞRETİM GÖREVLİSİ, BURAK KAYNARCA, AFYON KOCATEPE ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/TÜRK SANAT MÜZİĞİ BÖLÜMÜ/TEMEL BİLİMLER ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik  Türk  Müziği ( Sanat Müziği ) ; Yorumculuk ; Müzik Teorileri, burakkaynarca[at]gmail.com, EFA8DB002D4A2668
+
+100657, ÖĞRETİM GÖREVLİSİ, YUNUS EMRE UĞUR, AFYON KOCATEPE ÜNİVERSİTESİ/REKTÖRLÜK/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji ; Klasik  Türk  Müziği ( Sanat Müziği ), yeugur[at]aku.edu.tr, C0ED5DD202DD6686
+
+116895, ÖĞRETİM GÖREVLİSİ, TUNİSA YEŞİLÇAY, AFYON KOCATEPE ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/TÜRK SANAT MÜZİĞİ BÖLÜMÜ/TÜRK SANAT MÜZİĞİ SES EĞİTİMİ ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik  Türk  Müziği ( Sanat Müziği ) ; Yorumculuk ; Müzik Teorileri, E3F846133639AF47
+
+117141, ÖĞRETİM GÖREVLİSİ, HAKAN AKDENİZ, AFYON KOCATEPE ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/TÜRK SANAT MÜZİĞİ BÖLÜMÜ/TEMEL BİLİMLER ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, hakanakdeniz777[at]hotmail.com, B6A3415156A52D35
+
+127965, ÖĞRETİM GÖREVLİSİ, ÖMER BİLDİK, AFYON KOCATEPE ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/TÜRK SANAT MÜZİĞİ BÖLÜMÜ/TEMEL BİLİMLER ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, BEDA88B8234DDBB8
+
+127968, ÖĞRETİM GÖREVLİSİ, EYİP KOCA, AFYON KOCATEPE ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/TÜRK SANAT MÜZİĞİ BÖLÜMÜ/TEMEL BİLİMLER ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Türk Halk müziği, eyupkoca[at]hotmail.com, F43D45C6E4A6BAFC
+
+127967, ÖĞRETİM GÖREVLİSİ, RÜSTEM SEMİH ŞENYAYLA, AFYON KOCATEPE ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/TÜRK SANAT MÜZİĞİ BÖLÜMÜ/TEMEL BİLİMLER ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik  Türk  Müziği ( Sanat Müziği ) ; Yorumculuk ; Müzik Teorileri, rsemih[at]hotmail.com, C69ECB269FA7A20A
+
+26718, ÖĞRETİM GÖREVLİSİ, FAKI CAN YÜRÜK, AFYON KOCATEPE ÜNİVERSİTESİ/REKTÖRLÜK/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), fakicanyuruk[at]hotmail.com, FC73E002886CB422

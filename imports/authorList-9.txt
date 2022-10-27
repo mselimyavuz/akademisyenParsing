@@ -1,0 +1,39 @@
+204080, PROFESÖR, ARDA EDEN, YILDIZ TEKNİK ÜNİVERSİTESİ/SANAT VE TASARIM FAKÜLTESİ/SAHNE SANATLARI BÖLÜMÜ/DUYSAL SES SANATLARI TASARIMI ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzik Teknolojileri, ardaeden[at]yildiz.edu.tr, 39CC10879A3948A9
+
+48624, PROFESÖR, KORAY SAZLI, YILDIZ TEKNİK ÜNİVERSİTESİ/SANAT VE TASARIM FAKÜLTESİ/SAHNE SANATLARI BÖLÜMÜ/DUYSAL SES SANATLARI TASARIMI ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Kompozisyon, koraysazli[at]gmail.com, 6CC2487A3DECE863
+
+173292, PROFESÖR, MEHVEŞ EMEÇ BİROL, MARMARA ÜNİVERSİTESİ/ATATÜRK EĞİTİM FAKÜLTESİ/GÜZEL SANATLAR EĞİTİMİ BÖLÜMÜ/MÜZİK EĞİTİMİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk) ; Müzik Teorileri ; Klasik Batı Müziği (Kompozisyon), mehvesemec[at]biri.com.tr, DC1A5790AB7816A3
+
+191764, PROFESÖR, SİBEL ÇOBAN, MARMARA ÜNİVERSİTESİ/ATATÜRK EĞİTİM FAKÜLTESİ/GÜZEL SANATLAR EĞİTİMİ BÖLÜMÜ/MÜZİK EĞİTİMİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk) ; Müzik Teorileri ; Müzikoloji, sakinci[at]marmara.edu.tr, 4E0BCE199B15CCCF
+
+29297, PROFESÖR, MEHMET SAFA YEPREM, MARMARA ÜNİVERSİTESİ/İLAHİYAT FAKÜLTESİ/İSLAM TARİHİ VE SANATLARI BÖLÜMÜ/TÜRK DİN MUSİKİSİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji ; Klasik Batı Müziği (Kompozisyon) ; Klasik Batı Müziği (Yorumculuk), syeprem[at]gmail.com, 34420C8836313178
+
+121021, PROFESÖR, MUSTAFA USLU, MARMARA ÜNİVERSİTESİ/ATATÜRK EĞİTİM FAKÜLTESİ/GÜZEL SANATLAR EĞİTİMİ BÖLÜMÜ/MÜZİK EĞİTİMİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, muslu[at]marmara.edu.tr, 02259B8613EE50ED
+
+19979, PROFESÖR, AYŞE BAŞAK İLHAN HARMANCI, MARMARA ÜNİVERSİTESİ/İLAHİYAT FAKÜLTESİ/İSLAM TARİHİ VE SANATLARI BÖLÜMÜ/TÜRK DİN MUSİKİSİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Türk Sanat Müziği (Kompozisyon) ; Müzik Teorileri ; Müzikoloji, basakilhan75[at]hotmail.com, 43B72DB1AEA4770E
+
+37894, PROFESÖR, ECE EMİNE KARŞAL, MARMARA ÜNİVERSİTESİ/GÜZEL SANATLAR FAKÜLTESİ/MÜZİK BÖLÜMÜ/MÜZİK ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), ece.karsal[at]marmara.edu.tr, 233C650FEBD9EBB4
+
+14961, PROFESÖR, GÜLAY KARŞICI, MARMARA ÜNİVERSİTESİ/GÜZEL SANATLAR FAKÜLTESİ/MÜZİK BÖLÜMÜ/MÜZİK ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji, 544FBB2E7648A8B9
+
+137783, PROFESÖR, ECE SÖZER, DOKUZ EYLÜL ÜNİVERSİTESİ/İZMİR DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/PİYANO ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği ; Yorumculuk, 061758403108FBC3
+
+114433, PROFESÖR, EBRU GÜNER CANBEY, DOKUZ EYLÜL ÜNİVERSİTESİ/İZMİR DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/KOMPOZİSYON VE ORKESTRA ŞEFLİĞİ ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Kompozisyon) ; Orkestra Şefliği, ebru.guner[at]deu.edu.tr, 6062EBA28F89D513
+
+216413, PROFESÖR, PINAR UÇMAN KARAÇALI, DOKUZ EYLÜL ÜNİVERSİTESİ/İZMİR DEVLET KONSERVATUVARI/SAHNE SANATLARI BÖLÜMÜ/OPERA ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk) ; Türk Halk Müziği (Yorumculuk), pinar.karacali[at]deu.edu.tr, E27DE268272E4ADA
+
+121200, PROFESÖR, JÜLİDE GÜNDÜZ, DOKUZ EYLÜL ÜNİVERSİTESİ/İZMİR DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/ÜFLEMELİ VE VURMALI ÇALGILAR ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), gunduz.julide[at]deu.edu.tr, AACBFD06619469AA
+
+12319, PROFESÖR, MEHMET FARUK DÜZGÜN, DOKUZ EYLÜL ÜNİVERSİTESİ/İZMİR DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/ÜFLEMELİ VE VURMALI ÇALGILAR ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), faruk.duzgun[at]deu.edu.tr, D1A52303BCF86338
+
+25374, PROFESÖR, İBRAHİM YAVUZ YÜKSELSİN, DOKUZ EYLÜL ÜNİVERSİTESİ/GÜZEL SANATLAR FAKÜLTESİ/MÜZİKOLOJİ BÖLÜMÜ/MÜZİKOLOJİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji ; Müzik Teorileri, DB352842C2AE8F6C
+
+142722, PROFESÖR, TALİA ÖZLEM BALTACILAR, DOKUZ EYLÜL ÜNİVERSİTESİ/İZMİR DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/PİYANO ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Yorumculuk ; Klasik Batı Müziği, ozlem.baltacilar[at]deu.edu.tr, 85BF529A740490ED
+
+3529, PROFESÖR, CİHAN IŞIKHAN, DOKUZ EYLÜL ÜNİVERSİTESİ/GÜZEL SANATLAR FAKÜLTESİ/MÜZİKOLOJİ BÖLÜMÜ/MÜZİK TEKNOLOJİSİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzik Teknolojileri, cihan.isikhan[at]deu.edu.tr, 431DF4801F4C1AA9
+
+4102, PROFESÖR, MEHMET FIRAT KUTLUK, DOKUZ EYLÜL ÜNİVERSİTESİ/GÜZEL SANATLAR FAKÜLTESİ/MÜZİKOLOJİ BÖLÜMÜ/MÜZİKOLOJİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji ; Müzik Teknolojileri ; Müzik Teorileri, CE1DC38E69C27094
+
+5426, PROFESÖR, UZAY BORA, DOKUZ EYLÜL ÜNİVERSİTESİ/İZMİR DEVLET KONSERVATUVARI/MÜZİKOLOJİ BÖLÜMÜ/GENEL MÜZİKOLOJİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzik Teorileri ; Müzikoloji, uzaybora[at]gmail.com, 29D3243001009743
+
+9701, PROFESÖR, AYHAN EROL, DOKUZ EYLÜL ÜNİVERSİTESİ/GÜZEL SANATLAR FAKÜLTESİ/MÜZİKOLOJİ BÖLÜMÜ/MÜZİKOLOJİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji, aerol[at]deu.edu.tr, 5E6A39838C79C9F4

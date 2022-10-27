@@ -1,0 +1,39 @@
+36297, DOÇENT, İLKER KÖMÜRCÜ, ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/YAYLI ÇALGILAR ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji, ilkerkomurcu[at]gmail.com, 3619A2E7EF56A74A
+
+216565, DOÇENT, GÜNAY TUZKAYA, ŞIRNAK ÜNİVERSİTESİ/GÜZEL SANATLAR FAKÜLTESİ/MÜZİK BÖLÜMÜ/MÜZİK ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Yorumculuk ; Klasik Batı Müziği, 57C82CA643D5BD65
+
+160874, DOÇENT, ARİF MÖHSÜNOĞLU, ŞIRNAK ÜNİVERSİTESİ/GÜZEL SANATLAR FAKÜLTESİ/MÜZİK BÖLÜMÜ/MÜZİK ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), FA63C597A34C05EF
+
+139365, DOÇENT, RAMİZ GÖKBUDAK, SELÇUK ÜNİVERSİTESİ/İLETİŞİM FAKÜLTESİ/RADYO, TELEVİZYON VE SİNEMA BÖLÜMÜ/RADYO VE TELEVİZYON ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzik Teknolojileri, rgokbudak[at]gmail.com, E4FB9C355AE517C2
+
+43606, DOÇENT, EZGİ BABACAN, NECMETTİN ERBAKAN ÜNİVERSİTESİ/AHMET KELEŞOĞLU EĞİTİM FAKÜLTESİ/GÜZEL SANATLAR EĞİTİMİ BÖLÜMÜ/MÜZİK EĞİTİMİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, ezgibabacan[at]hotmail.com, 84DE6BABE50C8012
+
+139568, DOÇENT, MURAT DEVRİM BABACAN, NECMETTİN ERBAKAN ÜNİVERSİTESİ/AHMET KELEŞOĞLU EĞİTİM FAKÜLTESİ/GÜZEL SANATLAR EĞİTİMİ BÖLÜMÜ/MÜZİK EĞİTİMİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, mbabacan[at]erbakan.edu.tr, 20820B1C74570933
+
+193173, DOÇENT, HALİS GÜRKAN KIRANKAYA, GİRESUN ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/ÜFLEMELİ VE VURMALI ÇALGILAR ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), 2FD96FA87A746164
+
+48109, DOÇENT, MEHMET OZAN UYAN, GİRESUN ÜNİVERSİTESİ/GÖRELE GÜZEL SANATLAR FAKÜLTESİ/MÜZİK BÖLÜMÜ/MÜZİK ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzik Teorileri, ozan.uyan[at]giresun.edu.tr, D57C651126EC7AA1
+
+30062, DOÇENT, BARIŞ TOPTAŞ, ADIYAMAN ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/MÜZİKOLOJİ BÖLÜMÜ/MÜZİKOLOJİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, btoptas[at]hotmail.com, 908C0BCDD5E9E90A
+
+235188, DOÇENT, SELİN OYAN KÜPELİ, ADIYAMAN ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/MÜZİKOLOJİ BÖLÜMÜ/MÜZİKOLOJİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzik Teorileri ; Müzikoloji ; Klasik Batı Müziği (Yorumculuk), selinoyan[at]adiyaman.edu.tr, D5296575EA433E47
+
+54465, DOÇENT, FİKRET MERVE EKEN KÜÇÜKAKSOY, ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/ÇALGI ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji, fm.kucukaksoy[at]comu.edu.tr, 24B5B81BA9C5B5B2
+
+265593, DOÇENT, BAHADIR ÇOKAMAY, ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/SES ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzik Teorileri ; Orkestra Şefliği ; Klasik Batı Müziği (Kompozisyon), bahadircokamay[at]hotmail.com, 3B3DEC0E9819A718
+
+31093, DOÇENT, TOGAY ŞENALP, MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ/BODRUM GÜZEL SANATLAR FAKÜLTESİ/SAHNE SANATLARI BÖLÜMÜ/SAHNE SANATLARI ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji ; Klasik  Türk  Müziği ( Sanat Müziği ), togaysenalp[at]gmail.com, 6384BA74819970B3
+
+15242, DOÇENT, TUNCAY YILDIRIM, MUNZUR ÜNİVERSİTESİ/GÜZEL SANATLAR, TASARIM VE MİMARLIK FAKÜLTESİ/MÜZİK BÖLÜMÜ/MÜZİK BİLİMLERİ ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji, tuncayyildirim[at]munzur.edu.tr, 39AAFD8D76A16309
+
+265482, DOÇENT, ONUR DÜLGER, ANADOLU ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/KOMPOZİSYON VE ORKESTRA ŞEFLİĞİ ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Kompozisyon), onurdulger[at]anadolu.edu.tr, B77EEDF72B6D61D8
+
+54409, DOÇENT, SANCAR TUNALI, ANADOLU ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/SAHNE SANATLARI BÖLÜMÜ/OPERA ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Yorumculuk ; Klasik Batı Müziği, stunali[at]anadolu.edu.tr, 7CC645DB56AADCAF
+
+215626, DOÇENT, ÖZLEM KOÇYİĞİT, ANADOLU ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/ÜFLEME VE VURMA ÇALGILAR ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği ; Yorumculuk, okocyigit[at]anadolu.edu.tr, 241D036111243653
+
+48399, DOÇENT, ASU PERİHAN KARADUT, ANADOLU ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/YAYLI ÇALGILAR ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, 30DF8C1501713695
+
+54210, DOÇENT, SABRİYE ÖZKAN, ANADOLU ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/ÜFLEME VE VURMA ÇALGILAR ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), sgulmez[at]anadolu.edu.tr, 299B52FF6F54DABE
+
+53965, DOÇENT, FAHRETTİN EREN YAHŞİ, ANADOLU ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/PİYANO ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), ferenyahsi[at]gmail.com, 6D7DC1B1D058BBA9

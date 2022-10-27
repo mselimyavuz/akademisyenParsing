@@ -1,0 +1,39 @@
+107237, ÖĞRETİM GÖREVLİSİ, ALP VAROL, DOKUZ EYLÜL ÜNİVERSİTESİ/GÜZEL SANATLAR FAKÜLTESİ/MÜZİKOLOJİ BÖLÜMÜ/MÜZİK TEKNOLOJİSİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzik Teknolojileri, alp.varol[at]deu.edu.tr, 1BB0B59C9CE4C589
+
+142119, ÖĞRETİM GÖREVLİSİ, MURAT UFUK GÜLER, DOKUZ EYLÜL ÜNİVERSİTESİ/İZMİR DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/ÇALGI ONARIMI YAPIMI ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzik Teknolojileri ; Müzikoloji, ufuk.guler[at]deu.edu.tr, 0695EF4AE5F85043
+
+143024, ÖĞRETİM GÖREVLİSİ, MUZAFFER SARAÇ, DOKUZ EYLÜL ÜNİVERSİTESİ/REKTÖRLÜK/, Güzel Sanatlar Temel Alanı, Müzik, msarac[at]deu.edu.tr, E5A5F943BEC075FA
+
+171573, ÖĞRETİM GÖREVLİSİ, LEVENT GÖKMEN NACAROĞLU, DOKUZ EYLÜL ÜNİVERSİTESİ/REKTÖRLÜK/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği, gokmen.nacaroglu[at]deu.edu.tr, BF1A76E14A5D9DF1
+
+184776, ÖĞRETİM GÖREVLİSİ, ACLAN EVYAPAN, DOKUZ EYLÜL ÜNİVERSİTESİ/REKTÖRLÜK/, Güzel Sanatlar Temel Alanı, Müzik, aclan.evyapan[at]deu.edu.tr, 338CCD2A10046167
+
+166512, ÖĞRETİM GÖREVLİSİ, FATMA FERZAN BAŞAR, DOKUZ EYLÜL ÜNİVERSİTESİ/REKTÖRLÜK/, Güzel Sanatlar Temel Alanı, Müzik, 54112B8CC70BBFC8
+
+109579, ÖĞRETİM GÖREVLİSİ, ARİF MANAFLI, DOKUZ EYLÜL ÜNİVERSİTESİ/İZMİR DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/YAYLI ÇALGILAR ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği ; Yorumculuk, E684DC783BEDCFA4
+
+259789, ÖĞRETİM GÖREVLİSİ, OSMAN ERSİN SOĞULCAKLI, DOKUZ EYLÜL ÜNİVERSİTESİ/İZMİR DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/KOMPOZİSYON VE ORKESTRA ŞEFLİĞİ ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Kompozisyon) ; Orkestra Şefliği ; Müzik Teorileri, osman_sogulcakli[at]hotmail.com, 0B0598E0F9E48A26
+
+101598, ÖĞRETİM GÖREVLİSİ, OĞUZ ÖZCAN, DOKUZ EYLÜL ÜNİVERSİTESİ/BUCA EĞİTİM FAKÜLTESİ/GÜZEL SANATLAR EĞİTİMİ BÖLÜMÜ/MÜZİK EĞİTİMİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzik Teorileri ; Müzik Teknolojileri ; Müzikoloji, 2225475ECE33FF99
+
+242186, ÖĞRETİM GÖREVLİSİ, SELİN UÇTU ATIŞERİ, DOKUZ EYLÜL ÜNİVERSİTESİ/İZMİR DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/YAYLI ÇALGILAR ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği, selin.uctu[at]deu.edu.tr, 97A02421AD2930CE
+
+37961, ÖĞRETİM GÖREVLİSİ, RUKEN ÖZTOPALAN, DOKUZ EYLÜL ÜNİVERSİTESİ/REKTÖRLÜK/, Güzel Sanatlar Temel Alanı, Müzik, ruken.oztopalan[at]deu.edu.tr, 140C86855E827B94
+
+174055, ÖĞRETİM GÖREVLİSİ, SEMRA AKSU, DOKUZ EYLÜL ÜNİVERSİTESİ/REKTÖRLÜK/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği ; Yorumculuk, smrorgun[at]hotmail.com, 1C9492798778C09A
+
+166070, ÖĞRETİM GÖREVLİSİ, CANER YEMEZ, DOKUZ EYLÜL ÜNİVERSİTESİ/REKTÖRLÜK/, Güzel Sanatlar Temel Alanı, Müzik, Müzik Teknolojileri, yemezcango[at]gmail.com, 589E1F9A0A27AD3B
+
+138674, ÖĞRETİM GÖREVLİSİ, YONCA ALPAY ADIGÜZEL, DOKUZ EYLÜL ÜNİVERSİTESİ/REKTÖRLÜK/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği, yonca.alpay[at]deu.edu.tr, 10DB783707C8F4FC
+
+60067, ÖĞRETİM GÖREVLİSİ, İLKER AKIŞ, DOKUZ EYLÜL ÜNİVERSİTESİ/REKTÖRLÜK/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği, ilker.akis[at]deu.edu.tr, 85695867561CB982
+
+188755, ÖĞRETİM GÖREVLİSİ, İPEK SANCAR KURTEŞ, DOKUZ EYLÜL ÜNİVERSİTESİ/REKTÖRLÜK/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği, ipek.sancar[at]deu.edu.tr, 261EAE00F45708DF
+
+174073, ÖĞRETİM GÖREVLİSİ, REZZAN AYŞE ERGEN, DOKUZ EYLÜL ÜNİVERSİTESİ/REKTÖRLÜK/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği ; Yorumculuk, asya.ergen[at]gmail.com, ED3386C30C6C8C82
+
+324567, ÖĞRETİM GÖREVLİSİ, OĞUZHAN AKKUZU, DOKUZ EYLÜL ÜNİVERSİTESİ/İZMİR DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/PİYANO ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji ; Klasik Batı Müziği (Yorumculuk), oguzhan.akkuzu[at]deu.edu.tr, BC2585723DE35F94
+
+155893, ÖĞRETİM GÖREVLİSİ, TUNA ÇETİN, DİCLE ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/SES EĞİTİMİ BÖLÜMÜ/SES EĞİTİMİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik  Türk  Müziği ( Sanat Müziği ), 5F8E6B421CAD3C72
+
+155964, ÖĞRETİM GÖREVLİSİ, TAYFUN KIRMIZIGÜL, DİCLE ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/TÜRK MÜZİĞİ BÖLÜMÜ/TÜRK MÜZİĞİ ANABİLİM DALI/, Güzel Sanatlar Temel Alanı, Müzik, Türk Halk müziği, D387136834427F55

@@ -1,0 +1,39 @@
+14000, ÖĞRETİM GÖREVLİSİ, NİLGÜN İŞCAN, TRAKYA ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği, nilguniscan[at]trakya.edu.tr, 263E02FEB73F474A
+
+319025, ÖĞRETİM GÖREVLİSİ, BİLGE SU KARACA, TRAKYA ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/PİYANO ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), bilgesukaraca[at]trakya.edu.tr, 5CF6C957C926DDB4
+
+14584, ÖĞRETİM GÖREVLİSİ, BURCU COŞKUN, TRAKYA ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği, 3D334FB91BB3D078
+
+17900, ÖĞRETİM GÖREVLİSİ, SİBEL GÖKSEL, TRAKYA ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/YAYLI ÇALGILAR ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği ; Yorumculuk, E0F79147EE965DF8
+
+147430, ÖĞRETİM GÖREVLİSİ, AZİZ ERDOĞAN, MUNZUR ÜNİVERSİTESİ/REKTÖRLÜK/, Güzel Sanatlar Temel Alanı, Müzik, Türk Halk Müziği (Yorumculuk), azizerdogan[at]munzur.edu.tr, D94ABF11E43D2476
+
+279879, ÖĞRETİM GÖREVLİSİ, SEMİH SEZER, MUNZUR ÜNİVERSİTESİ/ÇEMİŞGEZEK MESLEK YÜKSEKOKULU/ÇOCUK BAKIMI VE GENÇLİK HİZMETLERİ BÖLÜMÜ/ÇOCUK GELİŞİMİ PR./, Güzel Sanatlar Temel Alanı, Müzik, Türk Halk Müziği (Yorumculuk), semihsezer[at]munzur.edu.tr, B6C7C13DA790B3E3
+
+274715, ÖĞRETİM GÖREVLİSİ, YÜKSEL TUNÇ, MUNZUR ÜNİVERSİTESİ/TUNCELİ MESLEK YÜKSEKOKULU/ÇOCUK BAKIMI VE GENÇLİK HİZMETLERİ BÖLÜMÜ/ÇOCUK GELİŞİMİ PR./, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji ; Türk Halk Müziği (Yorumculuk) ; Müzik Teorileri, yukseltunc[at]munzur.edu.tr, 1A28833B108DDCFE
+
+280923, ÖĞRETİM GÖREVLİSİ, ADEM GÜLER, MUNZUR ÜNİVERSİTESİ/TUNCELİ MESLEK YÜKSEKOKULU/ÇOCUK BAKIMI VE GENÇLİK HİZMETLERİ BÖLÜMÜ/ÇOCUK GELİŞİMİ PR./, Güzel Sanatlar Temel Alanı, Müzik, ademguler[at]munzur.edu.tr, 037A4BD9FB06042F
+
+121574, ÖĞRETİM GÖREVLİSİ, ONUR ALTINTUĞ, UŞAK ÜNİVERSİTESİ/REKTÖRLÜK/, Güzel Sanatlar Temel Alanı, Müzik, Müzikoloji, onur.altintug[at]usak.edu.tr, 1D761E5BF9EF9FC8
+
+101045, ÖĞRETİM GÖREVLİSİ, ÖZGE GÜNCAN, ANADOLU ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/PİYANO ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği ; Yorumculuk, ozgeguncan[at]gmail.com, 6CD30D312EF26671
+
+57750, ÖĞRETİM GÖREVLİSİ, FİLİZ AHMETOĞLU, ANADOLU ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/SAHNE SANATLARI BÖLÜMÜ/OPERA ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), 7BB6CDA6E7A70F47
+
+117852, ÖĞRETİM GÖREVLİSİ, NURİ DENİZ MUMCU, ANADOLU ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/YAYLI ÇALGILAR ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği ; Yorumculuk, dmumcu[at]anadolu.edu.tr, 196B2E985A29ACB0
+
+38061, ÖĞRETİM GÖREVLİSİ, ESİN KURNAZ, ANADOLU ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/YAYLI ÇALGILAR ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği, eerisken[at]anadolu.edu.tr, 6A3F7FDE0859640A
+
+273060, ÖĞRETİM GÖREVLİSİ, RUBA PEKDEMİR PEKER, ANADOLU ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/PİYANO ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), rubapekdemir[at]anadolu.edu.tr, BAB23D3BF5BF62DE
+
+147959, ÖĞRETİM GÖREVLİSİ, NUR AYDAY, ANADOLU ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/YAYLI ÇALGILAR ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği (Yorumculuk), nayday[at]anadolu.edu.tr, D22BF896682D2F24
+
+59460, ÖĞRETİM GÖREVLİSİ, MESUT TUNCER, ANADOLU ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/YAYLI ÇALGILAR ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği, mesut_tuncer[at]anadolu.edu.tr, DA312CCC44E21FB9
+
+101306, ÖĞRETİM GÖREVLİSİ, BEKİR VOLKAN İNCİ, ANADOLU ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/YAYLI ÇALGILAR ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği, bvinci[at]anadolu.edu.tr, 6BE177D13BBDAF41
+
+53640, ÖĞRETİM GÖREVLİSİ, MURAT GÖKTAŞ, ANADOLU ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/YAYLI ÇALGILAR ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği ; Orkestra Şefliği, mgoktas[at]anadolu.edu.tr, 7BDCD4BAA3C6F006
+
+57731, ÖĞRETİM GÖREVLİSİ, OZAN DİNÇ, ANADOLU ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/YAYLI ÇALGILAR ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği, ozandinc[at]anadolu.edu.tr, B38D84659E86F7D7
+
+100664, ÖĞRETİM GÖREVLİSİ, GÜLDEN NESLİHAN EROL, ANADOLU ÜNİVERSİTESİ/DEVLET KONSERVATUVARI/MÜZİK BÖLÜMÜ/YAYLI ÇALGILAR ANASANAT DALI/, Güzel Sanatlar Temel Alanı, Müzik, Klasik Batı Müziği, 8D1CCC227ED3FCBC
